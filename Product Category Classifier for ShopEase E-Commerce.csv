@@ -1,0 +1,1001 @@
+product_id,product_name,description,brand,color,size,price,material,target_category
+P1000,Belt,Belt with high quality features for everyday use,Samsung,Black,N/A,3258.68,Wood,Accessories
+P1001,Belt,Belt with high quality features for everyday use,Wildcraft,Green,S,1166.15,Leather,Accessories
+P1002,Running Shoes,Running Shoes with high quality features for everyday use,Nike,Green,XL,497.23,Steel,Footwear
+P1003,Skipping Rope,Skipping Rope with high quality features for everyday use,Roadster,White,1.5L,1262.66,Rubber,Sports
+P1004,Belt,Belt with high quality features for everyday use,Roadster,White,1.5L,821.96,Silicon,Accessories
+P1005,Leather Wallet,Leather Wallet with high quality features for everyday use,SG,Grey,XL,3215.25,Mesh,Accessories
+P1006,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Brown,43inch,148.72,Cotton,Accessories
+P1007,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,SG,Grey,S,665.33,Silicon,Clothing
+P1008,Backpack,Backpack with high quality features for everyday use,Nike,Black,6mm,1449.13,Mesh,Accessories
+P1009,Sandals,Sandals with high quality features for everyday use,Roadster,White,6mm,1963.14,Steel,Footwear
+P1010,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Green,S,3101.06,Mesh,Sports
+P1011,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,Brown,N/A,3215.66,Cotton,Electronics
+P1012,Laptop,Laptop with high quality features for everyday use,Samsung,Blue,1.5L,2108.55,Mesh,Electronics
+P1013,Watch,Watch with high quality features for everyday use,Samsung,Red,M,100.0,Rubber,Accessories
+P1014,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,Green,Full,1637.37,Rubber,Footwear
+P1015,Formal Shirt,Formal Shirt with high quality features for everyday use,Wildcraft,Yellow,1.5L,1777.14,Mesh,Clothing
+P1016,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Roadster,Green,Full,1009.09,Steel,Home Appliances
+P1017,Sweater,Sweater with high quality features for everyday use,Nike,Green,L,2105.37,Mesh,Clothing
+P1018,Leather Wallet,Leather Wallet with high quality features for everyday use,Sony,White,9,442.76,Silicon,Accessories
+P1019,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Grey,M,1636.71,Wood,Footwear
+P1020,Football,Football with high quality features for everyday use,boAt,Black,L,100.0,Leather,Sports
+P1021,Formal Shirt,Formal Shirt with high quality features for everyday use,Wildcraft,Blue,S,2201.3,Mesh,Clothing
+P1022,Power Bank,Power Bank with high quality features for everyday use,Puma,Green,6mm,2303.51,Rubber,Electronics
+P1023,Sandals,Sandals with high quality features for everyday use,Philips,Blue,XL,1860.91,Silicon,Footwear
+P1024,Running Shoes,Running Shoes with high quality features for everyday use,Nike,Red,XL,1794.68,Leather,Footwear
+P1025,Yoga Mat,Yoga Mat with high quality features for everyday use,Nike,Black,43inch,3006.76,Steel,Sports
+P1026,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Philips,Grey,43inch,2939.81,Silicon,Electronics
+P1027,Cricket Bat,Cricket Bat with high quality features for everyday use,Nike,Brown,6mm,1548.1,Wood,Sports
+P1028,Football,Football with high quality features for everyday use,Philips,Black,9,1158.13,Mesh,Sports
+P1029,Sweater,Sweater with high quality features for everyday use,Van Heusen,Grey,M,2497.68,Leather,Clothing
+P1030,LED TV,LED TV with high quality features for everyday use,Nike,Grey,Full,829.35,Leather,Electronics
+P1031,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Sony,Green,6mm,2477.26,Leather,Electronics
+P1032,Smart Watch,Smart Watch with high quality features for everyday use,Sony,Green,1.5L,2049.98,Cotton,Electronics
+P1033,Sneakers,Sneakers with high quality features for everyday use,Van Heusen,Yellow,N/A,1713.46,Steel,Footwear
+P1034,Sandals,Sandals with high quality features for everyday use,boAt,Yellow,6mm,2275.83,Rubber,Footwear
+P1035,Sandals,Sandals with high quality features for everyday use,Puma,Brown,1.5L,100.0,Cotton,Footwear
+P1036,Watch,Watch with high quality features for everyday use,boAt,Black,6mm,1864.88,Silicon,Accessories
+P1037,Sandals,Sandals with high quality features for everyday use,Nike,Green,1.5L,896.72,Plastic,Footwear
+P1038,Power Bank,Power Bank with high quality features for everyday use,Van Heusen,Green,M,1183.33,Cotton,Electronics
+P1039,Toaster,Toaster with high quality features for everyday use,Puma,White,Full,100.0,Rubber,Home Appliances
+P1040,Badminton Racket,Badminton Racket with high quality features for everyday use,Roadster,Brown,43inch,1264.53,Steel,Sports
+P1041,Jacket,Jacket with high quality features for everyday use,Philips,Black,9,563.72,Steel,Clothing
+P1042,Jacket,Jacket with high quality features for everyday use,SG,White,S,486.14,Plastic,Clothing
+P1043,Sandals,Sandals with high quality features for everyday use,Van Heusen,Black,XL,513.9,Plastic,Footwear
+P1044,Smart Watch,Smart Watch with high quality features for everyday use,boAt,Yellow,9,1190.86,Steel,Electronics
+P1045,Skipping Rope,Skipping Rope with high quality features for everyday use,Puma,Red,6mm,1908.59,Plastic,Sports
+P1046,Power Bank,Power Bank with high quality features for everyday use,SG,Green,L,100.0,Cotton,Electronics
+P1047,Iron,Iron with high quality features for everyday use,boAt,Brown,L,1017.9,Wood,Home Appliances
+P1048,Cricket Bat,Cricket Bat with high quality features for everyday use,Sony,White,6mm,1333.01,Mesh,Sports
+P1049,Sweater,Sweater with high quality features for everyday use,Van Heusen,Blue,9,2849.47,Steel,Clothing
+P1050,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Brown,M,2089.96,Silicon,Sports
+P1051,Watch,Watch with high quality features for everyday use,Samsung,Brown,Full,100.0,Mesh,Accessories
+P1052,Laptop,Laptop with high quality features for everyday use,Roadster,Red,M,2620.56,Mesh,Electronics
+P1053,Toaster,Toaster with high quality features for everyday use,Wildcraft,Red,L,670.18,Steel,Home Appliances
+P1054,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Yellow,43inch,1647.94,Steel,Footwear
+P1055,Formal Shirt,Formal Shirt with high quality features for everyday use,boAt,Yellow,9,100.0,Silicon,Clothing
+P1056,Sneakers,Sneakers with high quality features for everyday use,SG,Blue,1.5L,2376.51,Cotton,Footwear
+P1057,Laptop,Laptop with high quality features for everyday use,SG,Green,M,2375.31,Mesh,Electronics
+P1058,Toaster,Toaster with high quality features for everyday use,Puma,White,M,1546.36,Plastic,Home Appliances
+P1059,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,White,43inch,2355.03,Silicon,Footwear
+P1060,Jeans,Jeans with high quality features for everyday use,boAt,White,XL,2192.36,Wood,Clothing
+P1061,Yoga Mat,Yoga Mat with high quality features for everyday use,Sony,Grey,XL,3648.81,Plastic,Sports
+P1062,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,Brown,S,2536.13,Steel,Sports
+P1063,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Roadster,Black,XL,1019.91,Rubber,Home Appliances
+P1064,Running Shoes,Running Shoes with high quality features for everyday use,Puma,Brown,1.5L,1768.22,Rubber,Footwear
+P1065,Smart Watch,Smart Watch with high quality features for everyday use,Samsung,Grey,6mm,302.63,Wood,Electronics
+P1066,Power Bank,Power Bank with high quality features for everyday use,Philips,Black,M,2731.42,Mesh,Electronics
+P1067,Badminton Racket,Badminton Racket with high quality features for everyday use,boAt,Blue,M,2900.21,Silicon,Sports
+P1068,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Green,M,455.53,Silicon,Footwear
+P1069,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Nike,Red,N/A,2588.91,Silicon,Clothing
+P1070,Formal Shirt,Formal Shirt with high quality features for everyday use,Roadster,Brown,43inch,1176.42,Mesh,Clothing
+P1071,Laptop,Laptop with high quality features for everyday use,Sony,Green,XL,872.95,Cotton,Electronics
+P1072,Football,Football with high quality features for everyday use,Nike,Brown,M,1912.13,Rubber,Sports
+P1073,Laptop,Laptop with high quality features for everyday use,Sony,Grey,43inch,2011.22,Leather,Electronics
+P1074,Jeans,Jeans with high quality features for everyday use,Samsung,Red,S,861.57,Steel,Clothing
+P1075,Leather Wallet,Leather Wallet with high quality features for everyday use,SG,White,Full,2233.86,Leather,Accessories
+P1076,Sneakers,Sneakers with high quality features for everyday use,Wildcraft,Yellow,M,693.25,Mesh,Footwear
+P1077,Power Bank,Power Bank with high quality features for everyday use,Philips,Brown,L,1811.99,Cotton,Electronics
+P1078,Sneakers,Sneakers with high quality features for everyday use,Roadster,White,1.5L,761.92,Steel,Footwear
+P1079,Running Shoes,Running Shoes with high quality features for everyday use,Sony,Grey,S,3214.01,Mesh,Footwear
+P1080,Football,Football with high quality features for everyday use,Philips,Grey,M,1154.86,Cotton,Sports
+P1081,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Black,Full,1085.7,Wood,Home Appliances
+P1082,Running Shoes,Running Shoes with high quality features for everyday use,boAt,Black,N/A,1643.82,Cotton,Footwear
+P1083,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,White,9,2158.13,Rubber,Electronics
+P1084,Watch,Watch with high quality features for everyday use,SG,Black,6mm,2851.11,Plastic,Accessories
+P1085,Power Bank,Power Bank with high quality features for everyday use,Van Heusen,White,6mm,2455.63,Cotton,Electronics
+P1086,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Green,S,100.0,Cotton,Sports
+P1087,Yoga Mat,Yoga Mat with high quality features for everyday use,boAt,Black,S,1402.64,Leather,Sports
+P1088,Skipping Rope,Skipping Rope with high quality features for everyday use,Wildcraft,Brown,L,949.59,Wood,Sports
+P1089,Watch,Watch with high quality features for everyday use,Van Heusen,White,6mm,2173.95,Rubber,Accessories
+P1090,Cricket Bat,Cricket Bat with high quality features for everyday use,boAt,Brown,L,1422.79,Silicon,Sports
+P1091,Blender,Blender with high quality features for everyday use,Philips,Brown,9,2329.28,Plastic,Electronics
+P1092,Formal Shoes,Formal Shoes with high quality features for everyday use,Wildcraft,Brown,M,1436.42,Silicon,Footwear
+P1093,Jeans,Jeans with high quality features for everyday use,Roadster,White,XL,1546.57,Mesh,Clothing
+P1094,Sweater,Sweater with high quality features for everyday use,Philips,White,9,3089.89,Mesh,Clothing
+P1095,Sneakers,Sneakers with high quality features for everyday use,Philips,Yellow,9,653.97,Plastic,Footwear
+P1096,Backpack,Backpack with high quality features for everyday use,SG,Green,9,1085.92,Mesh,Accessories
+P1097,Sneakers,Sneakers with high quality features for everyday use,Philips,Brown,L,1271.34,Wood,Footwear
+P1098,Leather Wallet,Leather Wallet with high quality features for everyday use,Puma,Black,43inch,3407.94,Plastic,Accessories
+P1099,Laptop,Laptop with high quality features for everyday use,Sony,Red,M,1419.54,Leather,Electronics
+P1100,Skipping Rope,Skipping Rope with high quality features for everyday use,Sony,Green,L,774.64,Steel,Sports
+P1101,Leather Wallet,Leather Wallet with high quality features for everyday use,Wildcraft,Grey,N/A,1057.16,Wood,Accessories
+P1102,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,White,XL,1762.95,Mesh,Home Appliances
+P1103,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,White,XL,628.13,Steel,Footwear
+P1104,Cricket Bat,Cricket Bat with high quality features for everyday use,Philips,Blue,M,1631.73,Mesh,Sports
+P1105,Belt,Belt with high quality features for everyday use,boAt,Black,43inch,581.23,Wood,Accessories
+P1106,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Yellow,XL,1766.15,Cotton,Clothing
+P1107,Sandals,Sandals with high quality features for everyday use,SG,Blue,S,1060.97,Wood,Footwear
+P1108,Sweater,Sweater with high quality features for everyday use,Van Heusen,Yellow,M,293.58,Mesh,Clothing
+P1109,LED TV,LED TV with high quality features for everyday use,Samsung,Grey,43inch,2187.89,Steel,Electronics
+P1110,Backpack,Backpack with high quality features for everyday use,Van Heusen,Blue,1.5L,1322.71,Steel,Accessories
+P1111,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Puma,Blue,1.5L,1053.41,Plastic,Home Appliances
+P1112,Formal Shirt,Formal Shirt with high quality features for everyday use,Nike,White,S,1708.7,Rubber,Clothing
+P1113,Badminton Racket,Badminton Racket with high quality features for everyday use,Roadster,Red,L,1772.58,Cotton,Sports
+P1114,LED TV,LED TV with high quality features for everyday use,Sony,White,Full,2550.33,Plastic,Electronics
+P1115,Jeans,Jeans with high quality features for everyday use,Nike,Brown,XL,2052.2,Wood,Clothing
+P1116,Jacket,Jacket with high quality features for everyday use,Philips,Brown,43inch,1687.4,Cotton,Clothing
+P1117,Badminton Racket,Badminton Racket with high quality features for everyday use,Philips,Yellow,XL,2616.67,Wood,Sports
+P1118,Watch,Watch with high quality features for everyday use,Wildcraft,White,S,667.86,Wood,Accessories
+P1119,Iron,Iron with high quality features for everyday use,Philips,Yellow,N/A,1487.43,Steel,Home Appliances
+P1120,Blender,Blender with high quality features for everyday use,Samsung,Black,N/A,1738.85,Leather,Electronics
+P1121,Toaster,Toaster with high quality features for everyday use,Van Heusen,Yellow,Full,1426.87,Plastic,Home Appliances
+P1122,Sandals,Sandals with high quality features for everyday use,boAt,Black,XL,2886.49,Steel,Footwear
+P1123,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Yellow,M,2170.47,Leather,Accessories
+P1124,Sweater,Sweater with high quality features for everyday use,Sony,Green,1.5L,2486.56,Steel,Clothing
+P1125,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,Yellow,1.5L,1862.28,Silicon,Home Appliances
+P1126,Laptop,Laptop with high quality features for everyday use,Van Heusen,White,43inch,1368.22,Mesh,Electronics
+P1127,Running Shoes,Running Shoes with high quality features for everyday use,Wildcraft,Black,9,461.69,Plastic,Footwear
+P1128,Yoga Mat,Yoga Mat with high quality features for everyday use,Van Heusen,Brown,L,1737.22,Mesh,Sports
+P1129,Backpack,Backpack with high quality features for everyday use,Nike,Black,9,1814.83,Cotton,Accessories
+P1130,Watch,Watch with high quality features for everyday use,Philips,Brown,43inch,2686.61,Silicon,Accessories
+P1131,Power Bank,Power Bank with high quality features for everyday use,Samsung,White,43inch,1079.13,Rubber,Electronics
+P1132,Laptop,Laptop with high quality features for everyday use,boAt,Grey,6mm,1553.14,Plastic,Electronics
+P1133,Formal Shoes,Formal Shoes with high quality features for everyday use,Van Heusen,Red,N/A,1506.69,Plastic,Footwear
+P1134,Iron,Iron with high quality features for everyday use,Puma,Brown,1.5L,133.81,Rubber,Home Appliances
+P1135,Watch,Watch with high quality features for everyday use,Van Heusen,Grey,9,2182.47,Steel,Accessories
+P1136,Jacket,Jacket with high quality features for everyday use,Puma,Red,N/A,655.76,Rubber,Clothing
+P1137,Jeans,Jeans with high quality features for everyday use,Philips,Yellow,1.5L,1183.54,Plastic,Clothing
+P1138,Sneakers,Sneakers with high quality features for everyday use,Sony,Grey,6mm,2696.17,Rubber,Footwear
+P1139,Blender,Blender with high quality features for everyday use,Puma,Black,M,100.0,Cotton,Electronics
+P1140,Football,Football with high quality features for everyday use,Nike,White,XL,910.32,Silicon,Sports
+P1141,Belt,Belt with high quality features for everyday use,Puma,Yellow,M,1988.38,Plastic,Accessories
+P1142,Sweater,Sweater with high quality features for everyday use,Samsung,Green,43inch,874.64,Steel,Clothing
+P1143,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Philips,Green,M,2330.8,Steel,Electronics
+P1144,Running Shoes,Running Shoes with high quality features for everyday use,Van Heusen,Brown,1.5L,1033.03,Leather,Footwear
+P1145,Wireless Headphones,Wireless Headphones with high quality features for everyday use,boAt,Green,1.5L,2090.48,Plastic,Electronics
+P1146,Formal Shirt,Formal Shirt with high quality features for everyday use,Van Heusen,White,Full,624.66,Rubber,Clothing
+P1147,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Red,M,3778.17,Plastic,Footwear
+P1148,Yoga Mat,Yoga Mat with high quality features for everyday use,Roadster,Yellow,Full,2764.5,Mesh,Sports
+P1149,Skipping Rope,Skipping Rope with high quality features for everyday use,Van Heusen,Black,M,560.93,Mesh,Sports
+P1150,Sandals,Sandals with high quality features for everyday use,Philips,Brown,1.5L,2698.92,Mesh,Footwear
+P1151,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Brown,S,598.63,Plastic,Accessories
+P1152,LED TV,LED TV with high quality features for everyday use,Sony,Brown,L,100.0,Mesh,Electronics
+P1153,Football,Football with high quality features for everyday use,Sony,Green,M,393.15,Leather,Sports
+P1154,Blender,Blender with high quality features for everyday use,Wildcraft,Green,9,2338.13,Steel,Electronics
+P1155,Badminton Racket,Badminton Racket with high quality features for everyday use,Samsung,Blue,43inch,1917.13,Mesh,Sports
+P1156,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Blue,6mm,2278.96,Cotton,Sports
+P1157,Sneakers,Sneakers with high quality features for everyday use,Sony,Green,6mm,2239.8,Steel,Footwear
+P1158,LED TV,LED TV with high quality features for everyday use,Wildcraft,Red,L,1390.33,Wood,Electronics
+P1159,Running Shoes,Running Shoes with high quality features for everyday use,Samsung,Brown,N/A,1918.57,Steel,Footwear
+P1160,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Green,XL,3283.38,Wood,Home Appliances
+P1161,Smart Watch,Smart Watch with high quality features for everyday use,Samsung,Grey,S,1154.94,Cotton,Electronics
+P1162,Power Bank,Power Bank with high quality features for everyday use,boAt,Green,43inch,503.96,Leather,Electronics
+P1163,Sandals,Sandals with high quality features for everyday use,Philips,Brown,Full,1280.21,Plastic,Footwear
+P1164,Toaster,Toaster with high quality features for everyday use,Van Heusen,Red,L,2316.97,Wood,Home Appliances
+P1165,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,Green,S,1215.07,Silicon,Home Appliances
+P1166,Belt,Belt with high quality features for everyday use,SG,Blue,XL,1034.48,Mesh,Accessories
+P1167,Skipping Rope,Skipping Rope with high quality features for everyday use,Philips,Red,N/A,3438.25,Silicon,Sports
+P1168,Sandals,Sandals with high quality features for everyday use,Wildcraft,Green,N/A,2090.65,Mesh,Footwear
+P1169,Sweater,Sweater with high quality features for everyday use,Van Heusen,Brown,XL,3088.54,Wood,Clothing
+P1170,Leather Wallet,Leather Wallet with high quality features for everyday use,Samsung,Black,M,1720.17,Leather,Accessories
+P1171,Iron,Iron with high quality features for everyday use,Wildcraft,Black,L,3218.02,Steel,Home Appliances
+P1172,Sweater,Sweater with high quality features for everyday use,Nike,White,XL,100.0,Cotton,Clothing
+P1173,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,Green,Full,1605.69,Steel,Home Appliances
+P1174,Jeans,Jeans with high quality features for everyday use,Puma,Red,6mm,2089.12,Cotton,Clothing
+P1175,Sneakers,Sneakers with high quality features for everyday use,SG,Blue,43inch,1094.29,Plastic,Footwear
+P1176,Badminton Racket,Badminton Racket with high quality features for everyday use,Samsung,Red,1.5L,1208.19,Cotton,Sports
+P1177,Football,Football with high quality features for everyday use,Puma,Blue,9,1861.24,Rubber,Sports
+P1178,Sweater,Sweater with high quality features for everyday use,Samsung,Blue,43inch,754.61,Cotton,Clothing
+P1179,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Yellow,43inch,1714.62,Rubber,Footwear
+P1180,Backpack,Backpack with high quality features for everyday use,Van Heusen,Brown,Full,1324.04,Steel,Accessories
+P1181,Badminton Racket,Badminton Racket with high quality features for everyday use,Philips,Brown,Full,100.82,Wood,Sports
+P1182,Laptop,Laptop with high quality features for everyday use,Samsung,Blue,XL,1416.1,Steel,Electronics
+P1183,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,Black,9,2503.88,Cotton,Footwear
+P1184,Sweater,Sweater with high quality features for everyday use,Sony,Grey,M,1600.67,Leather,Clothing
+P1185,Formal Shoes,Formal Shoes with high quality features for everyday use,Sony,Black,43inch,100.0,Mesh,Footwear
+P1186,Sneakers,Sneakers with high quality features for everyday use,Wildcraft,Red,43inch,908.33,Leather,Footwear
+P1187,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Philips,Blue,S,1226.36,Plastic,Home Appliances
+P1188,Running Shoes,Running Shoes with high quality features for everyday use,boAt,Green,N/A,2160.92,Silicon,Footwear
+P1189,Sweater,Sweater with high quality features for everyday use,Samsung,Brown,XL,745.08,Cotton,Clothing
+P1190,Iron,Iron with high quality features for everyday use,Wildcraft,Green,1.5L,2090.63,Wood,Home Appliances
+P1191,Backpack,Backpack with high quality features for everyday use,Van Heusen,White,N/A,2168.04,Cotton,Accessories
+P1192,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,Red,S,808.24,Cotton,Home Appliances
+P1193,Iron,Iron with high quality features for everyday use,Van Heusen,Red,M,1785.87,Steel,Home Appliances
+P1194,Smart Watch,Smart Watch with high quality features for everyday use,Puma,Red,43inch,1775.7,Plastic,Electronics
+P1195,Watch,Watch with high quality features for everyday use,Wildcraft,Black,M,2769.26,Rubber,Accessories
+P1196,Running Shoes,Running Shoes with high quality features for everyday use,boAt,Black,6mm,1115.02,Mesh,Footwear
+P1197,Football,Football with high quality features for everyday use,Samsung,Green,9,722.75,Rubber,Sports
+P1198,LED TV,LED TV with high quality features for everyday use,Sony,Blue,9,100.0,Rubber,Electronics
+P1199,Yoga Mat,Yoga Mat with high quality features for everyday use,Van Heusen,Green,43inch,1837.41,Rubber,Sports
+P1200,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Green,N/A,2490.57,Silicon,Footwear
+P1201,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,Yellow,N/A,1412.83,Plastic,Home Appliances
+P1202,Yoga Mat,Yoga Mat with high quality features for everyday use,Wildcraft,Brown,L,100.0,Silicon,Sports
+P1203,Cricket Bat,Cricket Bat with high quality features for everyday use,Puma,Yellow,S,100.0,Leather,Sports
+P1204,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Puma,White,S,2730.73,Silicon,Electronics
+P1205,Iron,Iron with high quality features for everyday use,Van Heusen,Yellow,S,2181.08,Mesh,Home Appliances
+P1206,Iron,Iron with high quality features for everyday use,Samsung,Red,S,1519.49,Mesh,Home Appliances
+P1207,Smart Watch,Smart Watch with high quality features for everyday use,Roadster,White,XL,1733.95,Steel,Electronics
+P1208,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,SG,White,XL,1887.28,Cotton,Clothing
+P1209,Belt,Belt with high quality features for everyday use,Samsung,Blue,43inch,4205.24,Rubber,Accessories
+P1210,Watch,Watch with high quality features for everyday use,Puma,Green,Full,3292.41,Silicon,Accessories
+P1211,Backpack,Backpack with high quality features for everyday use,Philips,Green,43inch,844.66,Steel,Accessories
+P1212,Sandals,Sandals with high quality features for everyday use,Nike,Yellow,6mm,100.0,Cotton,Footwear
+P1213,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Black,L,2431.78,Mesh,Footwear
+P1214,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,White,43inch,2167.37,Plastic,Footwear
+P1215,Laptop,Laptop with high quality features for everyday use,Van Heusen,Green,XL,382.25,Leather,Electronics
+P1216,LED TV,LED TV with high quality features for everyday use,Wildcraft,Blue,Full,1182.65,Leather,Electronics
+P1217,Skipping Rope,Skipping Rope with high quality features for everyday use,SG,Green,9,1450.91,Wood,Sports
+P1218,Jeans,Jeans with high quality features for everyday use,Van Heusen,Blue,6mm,1960.09,Cotton,Clothing
+P1219,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Yellow,S,100.0,Plastic,Home Appliances
+P1220,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Sony,Red,Full,2473.92,Rubber,Clothing
+P1221,LED TV,LED TV with high quality features for everyday use,Samsung,Black,1.5L,2316.46,Cotton,Electronics
+P1222,Laptop,Laptop with high quality features for everyday use,Roadster,Blue,1.5L,351.26,Wood,Electronics
+P1223,Sneakers,Sneakers with high quality features for everyday use,Samsung,Blue,Full,886.41,Cotton,Footwear
+P1224,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Van Heusen,Green,XL,2775.47,Steel,Home Appliances
+P1225,Running Shoes,Running Shoes with high quality features for everyday use,Philips,Yellow,Full,1846.44,Rubber,Footwear
+P1226,Laptop,Laptop with high quality features for everyday use,Philips,Yellow,S,1712.11,Plastic,Electronics
+P1227,Toaster,Toaster with high quality features for everyday use,Van Heusen,Red,9,1101.13,Cotton,Home Appliances
+P1228,Jeans,Jeans with high quality features for everyday use,Puma,Grey,9,1083.08,Mesh,Clothing
+P1229,Laptop,Laptop with high quality features for everyday use,Roadster,Blue,L,100.0,Cotton,Electronics
+P1230,Jeans,Jeans with high quality features for everyday use,Wildcraft,Red,43inch,637.28,Plastic,Clothing
+P1231,Jacket,Jacket with high quality features for everyday use,Roadster,Green,43inch,1266.25,Wood,Clothing
+P1232,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,Blue,XL,886.32,Leather,Electronics
+P1233,Jeans,Jeans with high quality features for everyday use,Roadster,Red,XL,1861.75,Leather,Clothing
+P1234,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Grey,6mm,2423.99,Cotton,Footwear
+P1235,Backpack,Backpack with high quality features for everyday use,SG,Grey,XL,2998.17,Plastic,Accessories
+P1236,Sneakers,Sneakers with high quality features for everyday use,Puma,Blue,43inch,881.24,Cotton,Footwear
+P1237,Sweater,Sweater with high quality features for everyday use,Puma,Green,43inch,2471.17,Leather,Clothing
+P1238,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Philips,Green,9,3032.77,Rubber,Home Appliances
+P1239,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,Black,1.5L,1100.79,Wood,Electronics
+P1240,Football,Football with high quality features for everyday use,Philips,Red,1.5L,1261.9,Leather,Sports
+P1241,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Philips,Blue,S,2441.84,Leather,Clothing
+P1242,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,Blue,6mm,1782.06,Silicon,Home Appliances
+P1243,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Yellow,N/A,2653.3,Steel,Accessories
+P1244,Toaster,Toaster with high quality features for everyday use,Sony,Brown,XL,1663.81,Plastic,Home Appliances
+P1245,Blender,Blender with high quality features for everyday use,boAt,Green,43inch,230.66,Wood,Electronics
+P1246,Cricket Bat,Cricket Bat with high quality features for everyday use,boAt,Red,43inch,2655.28,Mesh,Sports
+P1247,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Black,43inch,1191.92,Mesh,Footwear
+P1248,Smart Watch,Smart Watch with high quality features for everyday use,boAt,Green,L,1700.05,Mesh,Electronics
+P1249,Jeans,Jeans with high quality features for everyday use,Philips,Blue,N/A,100.0,Cotton,Clothing
+P1250,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,Black,L,1248.25,Leather,Sports
+P1251,Running Shoes,Running Shoes with high quality features for everyday use,Sony,White,43inch,861.15,Mesh,Footwear
+P1252,Toaster,Toaster with high quality features for everyday use,Sony,White,M,1065.92,Steel,Home Appliances
+P1253,Skipping Rope,Skipping Rope with high quality features for everyday use,Philips,Black,9,113.25,Wood,Sports
+P1254,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Samsung,Brown,S,1740.68,Mesh,Clothing
+P1255,Jeans,Jeans with high quality features for everyday use,Samsung,Blue,M,689.7,Plastic,Clothing
+P1256,Leather Wallet,Leather Wallet with high quality features for everyday use,Sony,White,1.5L,2164.6,Steel,Accessories
+P1257,Cricket Bat,Cricket Bat with high quality features for everyday use,Van Heusen,Green,S,2370.82,Silicon,Sports
+P1258,Backpack,Backpack with high quality features for everyday use,Samsung,Red,Full,1432.74,Cotton,Accessories
+P1259,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Puma,Blue,43inch,100.0,Plastic,Clothing
+P1260,Football,Football with high quality features for everyday use,Wildcraft,Yellow,S,1517.56,Silicon,Sports
+P1261,Iron,Iron with high quality features for everyday use,Sony,Blue,1.5L,981.55,Mesh,Home Appliances
+P1262,Belt,Belt with high quality features for everyday use,Sony,Yellow,M,1847.31,Leather,Accessories
+P1263,Jeans,Jeans with high quality features for everyday use,Philips,Black,1.5L,1062.23,Cotton,Clothing
+P1264,Iron,Iron with high quality features for everyday use,Nike,Grey,M,1615.91,Mesh,Home Appliances
+P1265,Laptop,Laptop with high quality features for everyday use,Roadster,Yellow,N/A,618.75,Steel,Electronics
+P1266,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,SG,Yellow,L,2494.93,Mesh,Home Appliances
+P1267,Watch,Watch with high quality features for everyday use,Roadster,Yellow,XL,1378.99,Rubber,Accessories
+P1268,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Green,N/A,806.77,Leather,Footwear
+P1269,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,White,Full,3996.14,Plastic,Home Appliances
+P1270,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,Green,43inch,1439.47,Silicon,Footwear
+P1271,Blender,Blender with high quality features for everyday use,Roadster,White,Full,1454.69,Mesh,Electronics
+P1272,Sweater,Sweater with high quality features for everyday use,Sony,White,XL,3447.45,Leather,Clothing
+P1273,Toaster,Toaster with high quality features for everyday use,Sony,Yellow,1.5L,1935.14,Rubber,Home Appliances
+P1274,Jeans,Jeans with high quality features for everyday use,Philips,Yellow,Full,1542.08,Cotton,Clothing
+P1275,Smart Watch,Smart Watch with high quality features for everyday use,Puma,Black,Full,1945.6,Cotton,Electronics
+P1276,Belt,Belt with high quality features for everyday use,Puma,Blue,S,2055.62,Rubber,Accessories
+P1277,Jeans,Jeans with high quality features for everyday use,Nike,Red,L,1033.23,Steel,Clothing
+P1278,Skipping Rope,Skipping Rope with high quality features for everyday use,Wildcraft,Blue,43inch,1942.65,Leather,Sports
+P1279,Running Shoes,Running Shoes with high quality features for everyday use,Nike,Black,Full,100.0,Steel,Footwear
+P1280,Formal Shirt,Formal Shirt with high quality features for everyday use,Roadster,Grey,S,2227.04,Cotton,Clothing
+P1281,Backpack,Backpack with high quality features for everyday use,Van Heusen,Blue,N/A,1930.75,Leather,Accessories
+P1282,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Yellow,9,100.0,Silicon,Clothing
+P1283,Football,Football with high quality features for everyday use,Puma,Red,M,2219.35,Leather,Sports
+P1284,Sweater,Sweater with high quality features for everyday use,boAt,Black,M,216.05,Leather,Clothing
+P1285,Sweater,Sweater with high quality features for everyday use,Wildcraft,Grey,M,3182.56,Rubber,Clothing
+P1286,Toaster,Toaster with high quality features for everyday use,Van Heusen,Red,6mm,2414.61,Rubber,Home Appliances
+P1287,Backpack,Backpack with high quality features for everyday use,Sony,Blue,S,787.56,Cotton,Accessories
+P1288,Yoga Mat,Yoga Mat with high quality features for everyday use,Sony,White,1.5L,100.0,Leather,Sports
+P1289,Watch,Watch with high quality features for everyday use,Sony,Red,Full,1102.61,Cotton,Accessories
+P1290,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Van Heusen,White,N/A,511.26,Mesh,Electronics
+P1291,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Blue,N/A,1607.02,Cotton,Accessories
+P1292,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Sony,Black,Full,2642.36,Wood,Electronics
+P1293,Cricket Bat,Cricket Bat with high quality features for everyday use,Samsung,Red,43inch,1145.38,Rubber,Sports
+P1294,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Van Heusen,Black,M,100.0,Wood,Clothing
+P1295,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Philips,White,XL,763.05,Rubber,Electronics
+P1296,Skipping Rope,Skipping Rope with high quality features for everyday use,Van Heusen,Grey,43inch,2395.12,Wood,Sports
+P1297,Cricket Bat,Cricket Bat with high quality features for everyday use,Roadster,Yellow,M,1443.79,Silicon,Sports
+P1298,Toaster,Toaster with high quality features for everyday use,Roadster,Black,L,100.0,Mesh,Home Appliances
+P1299,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Blue,6mm,1590.86,Mesh,Footwear
+P1300,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,Blue,L,2025.11,Plastic,Footwear
+P1301,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Blue,M,1867.92,Rubber,Clothing
+P1302,Watch,Watch with high quality features for everyday use,Nike,White,43inch,2648.2,Silicon,Accessories
+P1303,Jeans,Jeans with high quality features for everyday use,Wildcraft,Yellow,N/A,1849.51,Cotton,Clothing
+P1304,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,Black,6mm,100.0,Plastic,Home Appliances
+P1305,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Puma,Red,S,2925.9,Steel,Home Appliances
+P1306,Iron,Iron with high quality features for everyday use,boAt,White,6mm,2684.22,Wood,Home Appliances
+P1307,Smart Watch,Smart Watch with high quality features for everyday use,Wildcraft,Red,6mm,3245.02,Rubber,Electronics
+P1308,Sandals,Sandals with high quality features for everyday use,Wildcraft,Blue,N/A,2222.22,Rubber,Footwear
+P1309,Belt,Belt with high quality features for everyday use,Sony,Yellow,L,100.0,Silicon,Accessories
+P1310,Leather Wallet,Leather Wallet with high quality features for everyday use,Puma,Green,6mm,1228.82,Steel,Accessories
+P1311,Football,Football with high quality features for everyday use,Wildcraft,Black,43inch,2334.39,Rubber,Sports
+P1312,Cricket Bat,Cricket Bat with high quality features for everyday use,Nike,White,9,100.0,Cotton,Sports
+P1313,Cricket Bat,Cricket Bat with high quality features for everyday use,Wildcraft,White,1.5L,100.0,Rubber,Sports
+P1314,Belt,Belt with high quality features for everyday use,Puma,Black,S,1986.2,Cotton,Accessories
+P1315,Laptop,Laptop with high quality features for everyday use,SG,Brown,6mm,1049.56,Leather,Electronics
+P1316,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Wildcraft,Black,N/A,2978.25,Mesh,Clothing
+P1317,Mixer Grinder,Mixer Grinder with high quality features for everyday use,boAt,Blue,6mm,1921.68,Mesh,Home Appliances
+P1318,Toaster,Toaster with high quality features for everyday use,Van Heusen,Grey,9,1396.42,Wood,Home Appliances
+P1319,Power Bank,Power Bank with high quality features for everyday use,Philips,Brown,6mm,932.27,Plastic,Electronics
+P1320,Jeans,Jeans with high quality features for everyday use,SG,Brown,43inch,1211.7,Mesh,Clothing
+P1321,Sneakers,Sneakers with high quality features for everyday use,Nike,Red,L,1448.98,Silicon,Footwear
+P1322,Running Shoes,Running Shoes with high quality features for everyday use,Van Heusen,Blue,6mm,705.71,Silicon,Footwear
+P1323,Formal Shirt,Formal Shirt with high quality features for everyday use,Wildcraft,Red,L,1025.86,Silicon,Clothing
+P1324,Badminton Racket,Badminton Racket with high quality features for everyday use,Samsung,Yellow,Full,1845.07,Plastic,Sports
+P1325,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Philips,White,XL,714.69,Leather,Clothing
+P1326,Belt,Belt with high quality features for everyday use,Wildcraft,Red,S,2533.45,Wood,Accessories
+P1327,Toaster,Toaster with high quality features for everyday use,Wildcraft,Yellow,Full,599.9,Cotton,Home Appliances
+P1328,Iron,Iron with high quality features for everyday use,Puma,Blue,M,1595.64,Cotton,Home Appliances
+P1329,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,Black,M,1922.47,Steel,Electronics
+P1330,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Red,43inch,481.43,Mesh,Home Appliances
+P1331,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Green,L,4186.13,Steel,Footwear
+P1332,Watch,Watch with high quality features for everyday use,SG,White,S,2501.07,Silicon,Accessories
+P1333,Sneakers,Sneakers with high quality features for everyday use,Samsung,Blue,1.5L,3252.53,Plastic,Footwear
+P1334,Jacket,Jacket with high quality features for everyday use,Nike,Yellow,1.5L,561.37,Cotton,Clothing
+P1335,Backpack,Backpack with high quality features for everyday use,Philips,Grey,1.5L,3041.85,Cotton,Accessories
+P1336,Toaster,Toaster with high quality features for everyday use,SG,Green,S,100.0,Steel,Home Appliances
+P1337,Leather Wallet,Leather Wallet with high quality features for everyday use,Samsung,Red,1.5L,1243.16,Rubber,Accessories
+P1338,LED TV,LED TV with high quality features for everyday use,Samsung,White,XL,714.56,Steel,Electronics
+P1339,Sandals,Sandals with high quality features for everyday use,SG,White,1.5L,1952.64,Mesh,Footwear
+P1340,Smart Watch,Smart Watch with high quality features for everyday use,Philips,Brown,Full,1639.62,Plastic,Electronics
+P1341,Yoga Mat,Yoga Mat with high quality features for everyday use,Nike,Yellow,N/A,820.83,Silicon,Sports
+P1342,Blender,Blender with high quality features for everyday use,boAt,Green,1.5L,1227.91,Plastic,Electronics
+P1343,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,Blue,L,100.0,Steel,Clothing
+P1344,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,SG,Black,L,1088.49,Cotton,Home Appliances
+P1345,Badminton Racket,Badminton Racket with high quality features for everyday use,Van Heusen,Blue,L,2369.23,Steel,Sports
+P1346,Backpack,Backpack with high quality features for everyday use,boAt,Brown,N/A,1733.29,Wood,Accessories
+P1347,Sneakers,Sneakers with high quality features for everyday use,boAt,Black,L,939.48,Mesh,Footwear
+P1348,Sneakers,Sneakers with high quality features for everyday use,Samsung,Brown,1.5L,919.35,Mesh,Footwear
+P1349,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Nike,Green,43inch,2283.39,Steel,Electronics
+P1350,Badminton Racket,Badminton Racket with high quality features for everyday use,Philips,Black,S,591.82,Rubber,Sports
+P1351,Running Shoes,Running Shoes with high quality features for everyday use,SG,Blue,S,611.85,Wood,Footwear
+P1352,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Wildcraft,Red,M,100.0,Rubber,Electronics
+P1353,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,Yellow,XL,811.19,Mesh,Home Appliances
+P1354,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,White,S,3518.91,Silicon,Footwear
+P1355,Leather Wallet,Leather Wallet with high quality features for everyday use,Samsung,Green,XL,100.0,Rubber,Accessories
+P1356,Belt,Belt with high quality features for everyday use,Puma,Grey,S,3474.16,Plastic,Accessories
+P1357,Laptop,Laptop with high quality features for everyday use,Sony,Blue,43inch,100.0,Plastic,Electronics
+P1358,Formal Shoes,Formal Shoes with high quality features for everyday use,Sony,Blue,9,1283.56,Steel,Footwear
+P1359,Laptop,Laptop with high quality features for everyday use,boAt,Green,9,1521.5,Plastic,Electronics
+P1360,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,Black,6mm,297.25,Rubber,Home Appliances
+P1361,Watch,Watch with high quality features for everyday use,Philips,White,M,1224.69,Silicon,Accessories
+P1362,Backpack,Backpack with high quality features for everyday use,Puma,Yellow,M,1847.74,Steel,Accessories
+P1363,Toaster,Toaster with high quality features for everyday use,Puma,Brown,S,3833.71,Steel,Home Appliances
+P1364,Belt,Belt with high quality features for everyday use,Puma,Brown,S,1345.74,Wood,Accessories
+P1365,LED TV,LED TV with high quality features for everyday use,Wildcraft,Black,6mm,2314.65,Wood,Electronics
+P1366,Watch,Watch with high quality features for everyday use,Puma,White,43inch,385.23,Plastic,Accessories
+P1367,Smart Watch,Smart Watch with high quality features for everyday use,Wildcraft,Red,43inch,2156.62,Rubber,Electronics
+P1368,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,SG,Green,1.5L,2675.59,Silicon,Home Appliances
+P1369,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Philips,White,L,2294.01,Plastic,Electronics
+P1370,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Red,9,460.98,Leather,Sports
+P1371,Belt,Belt with high quality features for everyday use,boAt,White,6mm,1039.43,Wood,Accessories
+P1372,Formal Shirt,Formal Shirt with high quality features for everyday use,Wildcraft,White,N/A,1964.72,Wood,Clothing
+P1373,Yoga Mat,Yoga Mat with high quality features for everyday use,Puma,Yellow,L,1157.09,Mesh,Sports
+P1374,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Van Heusen,Blue,43inch,1262.52,Leather,Clothing
+P1375,Sweater,Sweater with high quality features for everyday use,SG,Grey,9,2284.53,Leather,Clothing
+P1376,Yoga Mat,Yoga Mat with high quality features for everyday use,Wildcraft,Red,1.5L,2223.97,Cotton,Sports
+P1377,Formal Shirt,Formal Shirt with high quality features for everyday use,Roadster,Black,N/A,3454.57,Wood,Clothing
+P1378,LED TV,LED TV with high quality features for everyday use,boAt,Black,M,100.0,Rubber,Electronics
+P1379,Formal Shirt,Formal Shirt with high quality features for everyday use,Philips,Red,9,2467.81,Mesh,Clothing
+P1380,Watch,Watch with high quality features for everyday use,Samsung,White,M,2353.84,Rubber,Accessories
+P1381,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Philips,Green,9,1764.13,Silicon,Clothing
+P1382,Cricket Bat,Cricket Bat with high quality features for everyday use,Philips,Yellow,XL,549.35,Steel,Sports
+P1383,Wireless Headphones,Wireless Headphones with high quality features for everyday use,SG,White,43inch,2580.81,Mesh,Electronics
+P1384,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,Black,1.5L,1257.97,Wood,Home Appliances
+P1385,Belt,Belt with high quality features for everyday use,Samsung,Grey,Full,1930.59,Wood,Accessories
+P1386,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Grey,L,100.0,Steel,Home Appliances
+P1387,Formal Shirt,Formal Shirt with high quality features for everyday use,Nike,Blue,6mm,1332.61,Mesh,Clothing
+P1388,Iron,Iron with high quality features for everyday use,SG,Blue,1.5L,1813.7,Silicon,Home Appliances
+P1389,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Nike,Blue,M,1630.1,Mesh,Home Appliances
+P1390,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,SG,Blue,Full,2742.69,Silicon,Clothing
+P1391,Blender,Blender with high quality features for everyday use,boAt,White,XL,1655.58,Mesh,Electronics
+P1392,Sneakers,Sneakers with high quality features for everyday use,Roadster,Black,XL,1800.82,Wood,Footwear
+P1393,Belt,Belt with high quality features for everyday use,Van Heusen,White,S,2333.02,Rubber,Accessories
+P1394,Blender,Blender with high quality features for everyday use,SG,Blue,S,2092.14,Silicon,Electronics
+P1395,Football,Football with high quality features for everyday use,Philips,Green,1.5L,2647.49,Cotton,Sports
+P1396,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,White,N/A,362.42,Steel,Footwear
+P1397,Formal Shirt,Formal Shirt with high quality features for everyday use,Nike,Green,1.5L,963.55,Leather,Clothing
+P1398,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Yellow,L,1097.89,Leather,Footwear
+P1399,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,boAt,Yellow,43inch,3258.63,Rubber,Home Appliances
+P1400,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,Grey,9,2336.39,Cotton,Sports
+P1401,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Black,S,2486.25,Wood,Footwear
+P1402,Badminton Racket,Badminton Racket with high quality features for everyday use,Sony,White,9,2441.99,Wood,Sports
+P1403,Toaster,Toaster with high quality features for everyday use,Puma,Brown,L,1865.01,Mesh,Home Appliances
+P1404,LED TV,LED TV with high quality features for everyday use,Nike,Yellow,43inch,2583.45,Silicon,Electronics
+P1405,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Roadster,Grey,N/A,3407.75,Mesh,Clothing
+P1406,Formal Shirt,Formal Shirt with high quality features for everyday use,Van Heusen,Blue,1.5L,804.19,Wood,Clothing
+P1407,Belt,Belt with high quality features for everyday use,Sony,Black,43inch,556.42,Rubber,Accessories
+P1408,Jeans,Jeans with high quality features for everyday use,Wildcraft,Red,L,1667.84,Steel,Clothing
+P1409,Jeans,Jeans with high quality features for everyday use,boAt,Brown,Full,1128.84,Leather,Clothing
+P1410,Jeans,Jeans with high quality features for everyday use,Samsung,White,1.5L,1694.44,Leather,Clothing
+P1411,Running Shoes,Running Shoes with high quality features for everyday use,Samsung,Blue,S,387.0,Plastic,Footwear
+P1412,Cricket Bat,Cricket Bat with high quality features for everyday use,Roadster,Black,6mm,2932.06,Silicon,Sports
+P1413,Badminton Racket,Badminton Racket with high quality features for everyday use,Philips,Blue,43inch,100.0,Steel,Sports
+P1414,Skipping Rope,Skipping Rope with high quality features for everyday use,Sony,Brown,Full,1695.52,Leather,Sports
+P1415,Jeans,Jeans with high quality features for everyday use,Sony,Blue,N/A,2656.67,Silicon,Clothing
+P1416,Iron,Iron with high quality features for everyday use,SG,Grey,M,1720.97,Plastic,Home Appliances
+P1417,Smart Watch,Smart Watch with high quality features for everyday use,Nike,Yellow,M,4711.35,Wood,Electronics
+P1418,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,White,M,241.21,Leather,Clothing
+P1419,Belt,Belt with high quality features for everyday use,boAt,Grey,N/A,100.0,Steel,Accessories
+P1420,Belt,Belt with high quality features for everyday use,Puma,Yellow,Full,1551.44,Mesh,Accessories
+P1421,Skipping Rope,Skipping Rope with high quality features for everyday use,Nike,Black,S,2226.91,Steel,Sports
+P1422,Watch,Watch with high quality features for everyday use,Sony,Grey,M,4274.75,Plastic,Accessories
+P1423,Leather Wallet,Leather Wallet with high quality features for everyday use,Sony,White,N/A,1927.71,Cotton,Accessories
+P1424,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,White,Full,100.0,Silicon,Footwear
+P1425,Iron,Iron with high quality features for everyday use,Puma,Green,XL,2329.98,Wood,Home Appliances
+P1426,Jacket,Jacket with high quality features for everyday use,Samsung,Blue,N/A,2531.81,Wood,Clothing
+P1427,Badminton Racket,Badminton Racket with high quality features for everyday use,Puma,Black,9,4159.22,Leather,Sports
+P1428,Belt,Belt with high quality features for everyday use,Puma,Red,M,1664.97,Silicon,Accessories
+P1429,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,White,43inch,2440.34,Leather,Sports
+P1430,Skipping Rope,Skipping Rope with high quality features for everyday use,SG,Grey,M,1025.81,Leather,Sports
+P1431,Sneakers,Sneakers with high quality features for everyday use,Wildcraft,Grey,Full,430.3,Leather,Footwear
+P1432,LED TV,LED TV with high quality features for everyday use,Roadster,Grey,M,494.2,Cotton,Electronics
+P1433,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,Blue,M,1579.77,Mesh,Footwear
+P1434,Jacket,Jacket with high quality features for everyday use,boAt,Grey,S,1641.71,Wood,Clothing
+P1435,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,Yellow,M,1932.44,Leather,Home Appliances
+P1436,Jeans,Jeans with high quality features for everyday use,Puma,Brown,XL,568.28,Rubber,Clothing
+P1437,LED TV,LED TV with high quality features for everyday use,Sony,Grey,1.5L,100.0,Steel,Electronics
+P1438,Sneakers,Sneakers with high quality features for everyday use,Nike,Blue,9,531.71,Plastic,Footwear
+P1439,Jeans,Jeans with high quality features for everyday use,boAt,Red,43inch,100.0,Plastic,Clothing
+P1440,Leather Wallet,Leather Wallet with high quality features for everyday use,Sony,Black,M,100.0,Leather,Accessories
+P1441,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Nike,Yellow,Full,100.0,Mesh,Home Appliances
+P1442,Leather Wallet,Leather Wallet with high quality features for everyday use,SG,Blue,XL,1642.24,Mesh,Accessories
+P1443,Sneakers,Sneakers with high quality features for everyday use,boAt,Yellow,XL,1119.9,Plastic,Footwear
+P1444,Toaster,Toaster with high quality features for everyday use,Van Heusen,Blue,9,610.65,Mesh,Home Appliances
+P1445,Formal Shirt,Formal Shirt with high quality features for everyday use,boAt,Black,9,100.0,Cotton,Clothing
+P1446,Power Bank,Power Bank with high quality features for everyday use,SG,Grey,XL,2271.15,Steel,Electronics
+P1447,Yoga Mat,Yoga Mat with high quality features for everyday use,Puma,White,9,2490.37,Wood,Sports
+P1448,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,White,M,565.29,Leather,Home Appliances
+P1449,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Roadster,Black,9,749.52,Steel,Home Appliances
+P1450,Jeans,Jeans with high quality features for everyday use,Van Heusen,Black,6mm,3024.78,Wood,Clothing
+P1451,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Grey,Full,246.64,Plastic,Home Appliances
+P1452,Smart Watch,Smart Watch with high quality features for everyday use,Nike,Grey,Full,2127.73,Wood,Electronics
+P1453,Yoga Mat,Yoga Mat with high quality features for everyday use,boAt,Yellow,M,2266.85,Leather,Sports
+P1454,Laptop,Laptop with high quality features for everyday use,Puma,Brown,6mm,1406.84,Leather,Electronics
+P1455,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Black,M,796.21,Plastic,Accessories
+P1456,Mixer Grinder,Mixer Grinder with high quality features for everyday use,boAt,Red,43inch,1756.72,Mesh,Home Appliances
+P1457,Sneakers,Sneakers with high quality features for everyday use,boAt,Yellow,L,2006.26,Rubber,Footwear
+P1458,Leather Wallet,Leather Wallet with high quality features for everyday use,Roadster,Yellow,M,100.0,Cotton,Accessories
+P1459,LED TV,LED TV with high quality features for everyday use,Van Heusen,Brown,43inch,2644.25,Plastic,Electronics
+P1460,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Grey,6mm,2544.4,Rubber,Footwear
+P1461,Leather Wallet,Leather Wallet with high quality features for everyday use,Samsung,Yellow,Full,1777.27,Cotton,Accessories
+P1462,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Van Heusen,Brown,6mm,3020.96,Wood,Home Appliances
+P1463,LED TV,LED TV with high quality features for everyday use,Philips,Grey,1.5L,100.0,Cotton,Electronics
+P1464,Leather Wallet,Leather Wallet with high quality features for everyday use,SG,Green,1.5L,1144.15,Leather,Accessories
+P1465,Jacket,Jacket with high quality features for everyday use,boAt,Green,N/A,1256.89,Wood,Clothing
+P1466,Laptop,Laptop with high quality features for everyday use,Wildcraft,Grey,Full,2161.27,Leather,Electronics
+P1467,Skipping Rope,Skipping Rope with high quality features for everyday use,SG,White,Full,2925.31,Wood,Sports
+P1468,Toaster,Toaster with high quality features for everyday use,Roadster,White,M,445.81,Silicon,Home Appliances
+P1469,Jacket,Jacket with high quality features for everyday use,SG,Grey,L,1895.34,Leather,Clothing
+P1470,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Grey,XL,2588.3,Wood,Home Appliances
+P1471,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Nike,Red,43inch,1166.55,Leather,Electronics
+P1472,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,Red,43inch,1127.9,Silicon,Sports
+P1473,Yoga Mat,Yoga Mat with high quality features for everyday use,Nike,Red,XL,1061.66,Leather,Sports
+P1474,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,White,1.5L,1449.12,Silicon,Home Appliances
+P1475,Cricket Bat,Cricket Bat with high quality features for everyday use,Wildcraft,Black,43inch,1217.22,Rubber,Sports
+P1476,Jacket,Jacket with high quality features for everyday use,Van Heusen,White,9,100.0,Plastic,Clothing
+P1477,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,White,XL,100.0,Leather,Home Appliances
+P1478,Watch,Watch with high quality features for everyday use,Puma,Green,N/A,1382.14,Steel,Accessories
+P1479,Formal Shirt,Formal Shirt with high quality features for everyday use,Roadster,Black,N/A,100.0,Leather,Clothing
+P1480,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Black,Full,1678.04,Cotton,Home Appliances
+P1481,Watch,Watch with high quality features for everyday use,Sony,Grey,1.5L,1774.53,Leather,Accessories
+P1482,Sweater,Sweater with high quality features for everyday use,SG,Blue,N/A,3541.58,Silicon,Clothing
+P1483,Skipping Rope,Skipping Rope with high quality features for everyday use,Philips,Green,9,3028.51,Silicon,Sports
+P1484,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Samsung,Brown,N/A,1778.26,Steel,Electronics
+P1485,Jacket,Jacket with high quality features for everyday use,boAt,Green,43inch,100.0,Rubber,Clothing
+P1486,Backpack,Backpack with high quality features for everyday use,SG,Green,43inch,1842.85,Plastic,Accessories
+P1487,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Puma,Brown,N/A,2143.58,Mesh,Clothing
+P1488,Football,Football with high quality features for everyday use,Samsung,Blue,6mm,100.0,Wood,Sports
+P1489,Jeans,Jeans with high quality features for everyday use,Philips,Brown,L,3630.48,Leather,Clothing
+P1490,Sweater,Sweater with high quality features for everyday use,SG,Green,9,2512.69,Plastic,Clothing
+P1491,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Puma,Brown,6mm,1398.96,Mesh,Home Appliances
+P1492,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Yellow,6mm,1515.5,Leather,Footwear
+P1493,Yoga Mat,Yoga Mat with high quality features for everyday use,Wildcraft,Yellow,M,1373.24,Leather,Sports
+P1494,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,White,M,2525.03,Silicon,Sports
+P1495,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,Blue,9,575.81,Rubber,Home Appliances
+P1496,Badminton Racket,Badminton Racket with high quality features for everyday use,Sony,Green,S,2633.6,Steel,Sports
+P1497,Laptop,Laptop with high quality features for everyday use,Roadster,Red,S,375.01,Plastic,Electronics
+P1498,Iron,Iron with high quality features for everyday use,Philips,Black,N/A,810.58,Cotton,Home Appliances
+P1499,Smart Watch,Smart Watch with high quality features for everyday use,Van Heusen,Yellow,1.5L,312.96,Silicon,Electronics
+P1500,Cricket Bat,Cricket Bat with high quality features for everyday use,boAt,Blue,43inch,158.67,Cotton,Sports
+P1501,Watch,Watch with high quality features for everyday use,Philips,Brown,L,586.19,Wood,Accessories
+P1502,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Red,XL,2229.09,Silicon,Accessories
+P1503,Toaster,Toaster with high quality features for everyday use,Van Heusen,White,6mm,100.0,Wood,Home Appliances
+P1504,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,SG,Green,43inch,100.0,Mesh,Clothing
+P1505,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,Black,6mm,100.0,Silicon,Sports
+P1506,Formal Shirt,Formal Shirt with high quality features for everyday use,Puma,Green,43inch,2704.8,Steel,Clothing
+P1507,Sweater,Sweater with high quality features for everyday use,Samsung,Brown,9,1135.6,Wood,Clothing
+P1508,Sweater,Sweater with high quality features for everyday use,Wildcraft,Blue,1.5L,1173.66,Silicon,Clothing
+P1509,Football,Football with high quality features for everyday use,Samsung,Yellow,N/A,1969.36,Cotton,Sports
+P1510,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Black,L,722.47,Wood,Footwear
+P1511,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Roadster,Green,M,1613.03,Cotton,Clothing
+P1512,Formal Shoes,Formal Shoes with high quality features for everyday use,Philips,Grey,1.5L,257.15,Cotton,Footwear
+P1513,Yoga Mat,Yoga Mat with high quality features for everyday use,Van Heusen,Red,9,2836.92,Cotton,Sports
+P1514,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Puma,Blue,1.5L,1808.11,Leather,Home Appliances
+P1515,Sweater,Sweater with high quality features for everyday use,Puma,Yellow,Full,100.0,Plastic,Clothing
+P1516,Sandals,Sandals with high quality features for everyday use,Nike,Brown,43inch,2037.49,Rubber,Footwear
+P1517,Blender,Blender with high quality features for everyday use,Sony,Brown,1.5L,2083.04,Wood,Electronics
+P1518,LED TV,LED TV with high quality features for everyday use,Van Heusen,Blue,N/A,640.08,Silicon,Electronics
+P1519,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Wildcraft,Black,43inch,2272.97,Rubber,Home Appliances
+P1520,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Brown,1.5L,2008.28,Rubber,Sports
+P1521,Yoga Mat,Yoga Mat with high quality features for everyday use,Roadster,Black,1.5L,1983.67,Wood,Sports
+P1522,Sandals,Sandals with high quality features for everyday use,Puma,Blue,L,2332.83,Leather,Footwear
+P1523,Yoga Mat,Yoga Mat with high quality features for everyday use,Philips,Black,XL,3423.06,Mesh,Sports
+P1524,Watch,Watch with high quality features for everyday use,Van Heusen,Red,1.5L,100.0,Steel,Accessories
+P1525,Laptop,Laptop with high quality features for everyday use,Sony,Blue,6mm,234.16,Steel,Electronics
+P1526,Running Shoes,Running Shoes with high quality features for everyday use,Puma,Black,L,1063.21,Wood,Footwear
+P1527,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,Green,L,1381.72,Mesh,Home Appliances
+P1528,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Sony,Blue,Full,2911.74,Rubber,Home Appliances
+P1529,Sneakers,Sneakers with high quality features for everyday use,Nike,White,XL,3138.03,Silicon,Footwear
+P1530,Football,Football with high quality features for everyday use,Wildcraft,Brown,43inch,128.74,Cotton,Sports
+P1531,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Yellow,XL,3238.08,Mesh,Sports
+P1532,Jeans,Jeans with high quality features for everyday use,Samsung,Black,9,2974.76,Leather,Clothing
+P1533,Football,Football with high quality features for everyday use,Sony,Blue,43inch,2188.5,Silicon,Sports
+P1534,LED TV,LED TV with high quality features for everyday use,Roadster,Black,Full,100.0,Cotton,Electronics
+P1535,Yoga Mat,Yoga Mat with high quality features for everyday use,Sony,Red,9,2115.83,Silicon,Sports
+P1536,Laptop,Laptop with high quality features for everyday use,Sony,Blue,Full,1696.88,Leather,Electronics
+P1537,Belt,Belt with high quality features for everyday use,Nike,Yellow,6mm,310.92,Wood,Accessories
+P1538,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,Green,Full,1747.13,Steel,Footwear
+P1539,Formal Shoes,Formal Shoes with high quality features for everyday use,Van Heusen,Yellow,9,100.0,Leather,Footwear
+P1540,Cricket Bat,Cricket Bat with high quality features for everyday use,Nike,Green,43inch,100.0,Mesh,Sports
+P1541,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Samsung,Blue,1.5L,1566.01,Leather,Clothing
+P1542,Watch,Watch with high quality features for everyday use,Wildcraft,Brown,6mm,1039.4,Cotton,Accessories
+P1543,Toaster,Toaster with high quality features for everyday use,boAt,Yellow,1.5L,195.4,Cotton,Home Appliances
+P1544,Sneakers,Sneakers with high quality features for everyday use,Sony,Blue,M,2694.12,Plastic,Footwear
+P1545,Football,Football with high quality features for everyday use,Van Heusen,White,M,633.43,Steel,Sports
+P1546,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Van Heusen,Black,1.5L,2383.81,Wood,Electronics
+P1547,Smart Watch,Smart Watch with high quality features for everyday use,Samsung,Black,XL,291.96,Leather,Electronics
+P1548,Skipping Rope,Skipping Rope with high quality features for everyday use,Roadster,White,L,100.0,Silicon,Sports
+P1549,LED TV,LED TV with high quality features for everyday use,Nike,Grey,L,2811.42,Wood,Electronics
+P1550,Toaster,Toaster with high quality features for everyday use,Puma,Yellow,6mm,2359.43,Cotton,Home Appliances
+P1551,Running Shoes,Running Shoes with high quality features for everyday use,boAt,Brown,6mm,2173.97,Rubber,Footwear
+P1552,Yoga Mat,Yoga Mat with high quality features for everyday use,SG,White,N/A,562.14,Steel,Sports
+P1553,Yoga Mat,Yoga Mat with high quality features for everyday use,Philips,Brown,XL,623.47,Plastic,Sports
+P1554,Skipping Rope,Skipping Rope with high quality features for everyday use,SG,Green,1.5L,100.0,Silicon,Sports
+P1555,Laptop,Laptop with high quality features for everyday use,Roadster,Green,N/A,2644.63,Steel,Electronics
+P1556,Cricket Bat,Cricket Bat with high quality features for everyday use,SG,White,S,755.01,Cotton,Sports
+P1557,Belt,Belt with high quality features for everyday use,Philips,Red,43inch,2723.83,Mesh,Accessories
+P1558,Mixer Grinder,Mixer Grinder with high quality features for everyday use,boAt,White,S,479.57,Mesh,Home Appliances
+P1559,Skipping Rope,Skipping Rope with high quality features for everyday use,Van Heusen,Green,1.5L,507.31,Cotton,Sports
+P1560,Yoga Mat,Yoga Mat with high quality features for everyday use,Van Heusen,Black,XL,1304.37,Leather,Sports
+P1561,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,Green,43inch,577.8,Cotton,Home Appliances
+P1562,Iron,Iron with high quality features for everyday use,boAt,Red,N/A,2823.97,Mesh,Home Appliances
+P1563,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,Blue,Full,2163.26,Plastic,Clothing
+P1564,Wireless Headphones,Wireless Headphones with high quality features for everyday use,SG,Black,1.5L,989.8,Cotton,Electronics
+P1565,Laptop,Laptop with high quality features for everyday use,Philips,Red,S,2922.44,Steel,Electronics
+P1566,Sneakers,Sneakers with high quality features for everyday use,Wildcraft,Black,1.5L,100.0,Rubber,Footwear
+P1567,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Green,S,1167.0,Cotton,Accessories
+P1568,Cricket Bat,Cricket Bat with high quality features for everyday use,Wildcraft,Red,N/A,2047.93,Silicon,Sports
+P1569,Toaster,Toaster with high quality features for everyday use,Puma,Black,L,2184.98,Plastic,Home Appliances
+P1570,Laptop,Laptop with high quality features for everyday use,boAt,Black,1.5L,2390.02,Wood,Electronics
+P1571,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Roadster,Yellow,XL,279.41,Leather,Home Appliances
+P1572,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Samsung,Yellow,43inch,100.0,Cotton,Home Appliances
+P1573,Jeans,Jeans with high quality features for everyday use,Nike,White,M,2339.41,Plastic,Clothing
+P1574,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Philips,Brown,43inch,1614.94,Cotton,Clothing
+P1575,Power Bank,Power Bank with high quality features for everyday use,Roadster,Grey,M,265.23,Wood,Electronics
+P1576,Backpack,Backpack with high quality features for everyday use,boAt,Grey,M,100.0,Leather,Accessories
+P1577,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Nike,White,43inch,2669.63,Rubber,Electronics
+P1578,Yoga Mat,Yoga Mat with high quality features for everyday use,Van Heusen,Red,Full,100.0,Leather,Sports
+P1579,Skipping Rope,Skipping Rope with high quality features for everyday use,Sony,Yellow,6mm,1511.9,Wood,Sports
+P1580,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Black,N/A,1267.8,Rubber,Footwear
+P1581,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Van Heusen,Red,M,652.36,Plastic,Electronics
+P1582,Cricket Bat,Cricket Bat with high quality features for everyday use,Van Heusen,Green,43inch,2161.6,Cotton,Sports
+P1583,Sandals,Sandals with high quality features for everyday use,boAt,Black,XL,925.0,Leather,Footwear
+P1584,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Sony,Yellow,6mm,815.72,Steel,Electronics
+P1585,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Van Heusen,Red,L,3177.57,Mesh,Clothing
+P1586,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Yellow,1.5L,741.55,Rubber,Sports
+P1587,Belt,Belt with high quality features for everyday use,boAt,Brown,L,1358.47,Silicon,Accessories
+P1588,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Brown,Full,2189.16,Plastic,Footwear
+P1589,Running Shoes,Running Shoes with high quality features for everyday use,Puma,Yellow,XL,2244.35,Plastic,Footwear
+P1590,Leather Wallet,Leather Wallet with high quality features for everyday use,Sony,White,N/A,887.47,Rubber,Accessories
+P1591,Belt,Belt with high quality features for everyday use,Wildcraft,Black,S,2615.99,Plastic,Accessories
+P1592,Sandals,Sandals with high quality features for everyday use,Nike,Brown,S,1047.09,Rubber,Footwear
+P1593,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,White,N/A,2080.21,Rubber,Home Appliances
+P1594,Backpack,Backpack with high quality features for everyday use,Samsung,Blue,L,387.73,Rubber,Accessories
+P1595,Watch,Watch with high quality features for everyday use,Sony,Brown,N/A,825.45,Mesh,Accessories
+P1596,Sneakers,Sneakers with high quality features for everyday use,boAt,Black,XL,3136.7,Cotton,Footwear
+P1597,Sweater,Sweater with high quality features for everyday use,Sony,Green,6mm,1188.38,Plastic,Clothing
+P1598,Iron,Iron with high quality features for everyday use,Nike,Red,Full,1434.4,Rubber,Home Appliances
+P1599,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Black,S,2037.03,Cotton,Footwear
+P1600,Belt,Belt with high quality features for everyday use,Philips,Brown,XL,390.61,Silicon,Accessories
+P1601,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Philips,White,S,235.26,Cotton,Home Appliances
+P1602,Toaster,Toaster with high quality features for everyday use,Puma,Red,Full,1180.94,Wood,Home Appliances
+P1603,Cricket Bat,Cricket Bat with high quality features for everyday use,Philips,White,43inch,1499.16,Steel,Sports
+P1604,Sandals,Sandals with high quality features for everyday use,boAt,Red,9,2278.99,Wood,Footwear
+P1605,Cricket Bat,Cricket Bat with high quality features for everyday use,Nike,Brown,L,2193.01,Steel,Sports
+P1606,Cricket Bat,Cricket Bat with high quality features for everyday use,SG,Grey,43inch,694.87,Silicon,Sports
+P1607,Skipping Rope,Skipping Rope with high quality features for everyday use,Van Heusen,Grey,M,1513.79,Silicon,Sports
+P1608,Yoga Mat,Yoga Mat with high quality features for everyday use,Nike,Red,6mm,2056.73,Mesh,Sports
+P1609,Sandals,Sandals with high quality features for everyday use,boAt,Black,Full,2169.46,Plastic,Footwear
+P1610,Yoga Mat,Yoga Mat with high quality features for everyday use,Puma,Brown,XL,2619.1,Wood,Sports
+P1611,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,Blue,M,375.66,Leather,Home Appliances
+P1612,Cricket Bat,Cricket Bat with high quality features for everyday use,Sony,Brown,S,1610.35,Silicon,Sports
+P1613,Sneakers,Sneakers with high quality features for everyday use,boAt,Brown,Full,724.82,Mesh,Footwear
+P1614,Badminton Racket,Badminton Racket with high quality features for everyday use,Roadster,Yellow,Full,1441.77,Steel,Sports
+P1615,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Van Heusen,Red,1.5L,2442.05,Silicon,Electronics
+P1616,Smart Watch,Smart Watch with high quality features for everyday use,Van Heusen,Grey,N/A,694.52,Plastic,Electronics
+P1617,Sweater,Sweater with high quality features for everyday use,Roadster,Yellow,S,551.94,Wood,Clothing
+P1618,Backpack,Backpack with high quality features for everyday use,Nike,Black,XL,759.46,Mesh,Accessories
+P1619,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Wildcraft,Grey,M,887.26,Wood,Home Appliances
+P1620,Belt,Belt with high quality features for everyday use,Roadster,White,M,450.18,Rubber,Accessories
+P1621,Belt,Belt with high quality features for everyday use,Nike,Grey,9,2177.55,Silicon,Accessories
+P1622,Running Shoes,Running Shoes with high quality features for everyday use,boAt,Green,L,2486.03,Cotton,Footwear
+P1623,Football,Football with high quality features for everyday use,boAt,Brown,6mm,1008.79,Plastic,Sports
+P1624,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Samsung,Brown,1.5L,1138.75,Steel,Home Appliances
+P1625,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,Red,1.5L,100.0,Leather,Sports
+P1626,Wireless Headphones,Wireless Headphones with high quality features for everyday use,boAt,Grey,S,295.38,Rubber,Electronics
+P1627,Football,Football with high quality features for everyday use,SG,Grey,9,1475.91,Cotton,Sports
+P1628,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,Black,6mm,1916.95,Leather,Clothing
+P1629,Skipping Rope,Skipping Rope with high quality features for everyday use,Puma,Yellow,6mm,1283.48,Cotton,Sports
+P1630,Belt,Belt with high quality features for everyday use,SG,Red,6mm,1045.03,Leather,Accessories
+P1631,Backpack,Backpack with high quality features for everyday use,SG,Blue,Full,1233.28,Rubber,Accessories
+P1632,Backpack,Backpack with high quality features for everyday use,Philips,Grey,43inch,1487.9,Leather,Accessories
+P1633,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,boAt,Grey,M,2283.59,Cotton,Clothing
+P1634,Backpack,Backpack with high quality features for everyday use,boAt,Green,XL,2661.81,Cotton,Accessories
+P1635,Running Shoes,Running Shoes with high quality features for everyday use,Sony,Green,1.5L,1902.63,Wood,Footwear
+P1636,Toaster,Toaster with high quality features for everyday use,SG,Yellow,M,4045.54,Steel,Home Appliances
+P1637,Power Bank,Power Bank with high quality features for everyday use,boAt,Black,43inch,936.43,Mesh,Electronics
+P1638,Running Shoes,Running Shoes with high quality features for everyday use,Van Heusen,White,43inch,1624.65,Silicon,Footwear
+P1639,LED TV,LED TV with high quality features for everyday use,Sony,Red,N/A,2593.55,Rubber,Electronics
+P1640,Jacket,Jacket with high quality features for everyday use,Sony,Black,N/A,2307.55,Plastic,Clothing
+P1641,Jeans,Jeans with high quality features for everyday use,Wildcraft,Red,S,1508.82,Plastic,Clothing
+P1642,Blender,Blender with high quality features for everyday use,Wildcraft,Green,N/A,1466.17,Leather,Electronics
+P1643,Watch,Watch with high quality features for everyday use,Nike,Grey,43inch,100.0,Plastic,Accessories
+P1644,LED TV,LED TV with high quality features for everyday use,Wildcraft,Green,43inch,2701.54,Plastic,Electronics
+P1645,Jeans,Jeans with high quality features for everyday use,Sony,White,6mm,852.56,Wood,Clothing
+P1646,Blender,Blender with high quality features for everyday use,Van Heusen,Green,43inch,100.0,Cotton,Electronics
+P1647,Yoga Mat,Yoga Mat with high quality features for everyday use,boAt,Green,M,100.0,Cotton,Sports
+P1648,Running Shoes,Running Shoes with high quality features for everyday use,Sony,Brown,43inch,1627.19,Wood,Footwear
+P1649,Laptop,Laptop with high quality features for everyday use,Philips,Brown,9,2076.18,Steel,Electronics
+P1650,Iron,Iron with high quality features for everyday use,Sony,Green,1.5L,2070.95,Plastic,Home Appliances
+P1651,Backpack,Backpack with high quality features for everyday use,Philips,Green,9,2442.42,Rubber,Accessories
+P1652,Skipping Rope,Skipping Rope with high quality features for everyday use,Nike,Blue,N/A,3632.42,Rubber,Sports
+P1653,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Sony,Green,M,100.0,Rubber,Clothing
+P1654,Iron,Iron with high quality features for everyday use,Puma,White,9,2461.35,Silicon,Home Appliances
+P1655,Sneakers,Sneakers with high quality features for everyday use,Samsung,Yellow,S,1230.18,Mesh,Footwear
+P1656,Watch,Watch with high quality features for everyday use,Puma,Yellow,N/A,1083.0,Silicon,Accessories
+P1657,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Green,43inch,1632.87,Steel,Clothing
+P1658,Backpack,Backpack with high quality features for everyday use,Wildcraft,Yellow,1.5L,679.72,Rubber,Accessories
+P1659,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,Black,M,1260.59,Leather,Home Appliances
+P1660,Mixer Grinder,Mixer Grinder with high quality features for everyday use,boAt,Blue,XL,2268.46,Plastic,Home Appliances
+P1661,Football,Football with high quality features for everyday use,Nike,Red,L,2293.37,Plastic,Sports
+P1662,Leather Wallet,Leather Wallet with high quality features for everyday use,Van Heusen,Red,XL,830.33,Leather,Accessories
+P1663,Sneakers,Sneakers with high quality features for everyday use,Nike,Red,6mm,1550.86,Wood,Footwear
+P1664,Belt,Belt with high quality features for everyday use,Nike,White,N/A,598.9,Cotton,Accessories
+P1665,Watch,Watch with high quality features for everyday use,Nike,Red,L,1592.09,Silicon,Accessories
+P1666,Backpack,Backpack with high quality features for everyday use,Philips,Green,43inch,1569.67,Silicon,Accessories
+P1667,LED TV,LED TV with high quality features for everyday use,Nike,Brown,43inch,1198.06,Mesh,Electronics
+P1668,Yoga Mat,Yoga Mat with high quality features for everyday use,Puma,Green,N/A,1636.96,Wood,Sports
+P1669,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Green,M,2282.88,Silicon,Accessories
+P1670,Belt,Belt with high quality features for everyday use,Nike,White,6mm,549.25,Steel,Accessories
+P1671,Power Bank,Power Bank with high quality features for everyday use,Wildcraft,Brown,Full,100.0,Rubber,Electronics
+P1672,Sandals,Sandals with high quality features for everyday use,Puma,Red,L,165.91,Rubber,Footwear
+P1673,Power Bank,Power Bank with high quality features for everyday use,Samsung,Red,N/A,1521.79,Wood,Electronics
+P1674,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Samsung,Blue,XL,1646.24,Silicon,Clothing
+P1675,Sweater,Sweater with high quality features for everyday use,Sony,Brown,M,647.86,Cotton,Clothing
+P1676,Sweater,Sweater with high quality features for everyday use,SG,Black,9,100.0,Steel,Clothing
+P1677,Iron,Iron with high quality features for everyday use,Samsung,Black,XL,563.36,Rubber,Home Appliances
+P1678,Football,Football with high quality features for everyday use,boAt,Black,N/A,100.0,Mesh,Sports
+P1679,Backpack,Backpack with high quality features for everyday use,Puma,Black,L,493.24,Mesh,Accessories
+P1680,Belt,Belt with high quality features for everyday use,SG,Brown,43inch,100.0,Silicon,Accessories
+P1681,Blender,Blender with high quality features for everyday use,boAt,Black,Full,2630.06,Leather,Electronics
+P1682,Jacket,Jacket with high quality features for everyday use,Roadster,White,M,1993.66,Steel,Clothing
+P1683,Badminton Racket,Badminton Racket with high quality features for everyday use,Nike,Black,L,1651.29,Rubber,Sports
+P1684,Sandals,Sandals with high quality features for everyday use,SG,Green,L,1940.64,Leather,Footwear
+P1685,Leather Wallet,Leather Wallet with high quality features for everyday use,Roadster,Blue,N/A,2919.48,Silicon,Accessories
+P1686,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Philips,White,Full,1605.41,Leather,Electronics
+P1687,Jeans,Jeans with high quality features for everyday use,Puma,White,N/A,1416.8,Mesh,Clothing
+P1688,Backpack,Backpack with high quality features for everyday use,Samsung,Black,9,1901.4,Plastic,Accessories
+P1689,Mixer Grinder,Mixer Grinder with high quality features for everyday use,SG,Green,Full,1228.45,Cotton,Home Appliances
+P1690,Sandals,Sandals with high quality features for everyday use,Roadster,Brown,N/A,100.0,Steel,Footwear
+P1691,Belt,Belt with high quality features for everyday use,Nike,Green,6mm,3992.39,Mesh,Accessories
+P1692,Sweater,Sweater with high quality features for everyday use,Samsung,Blue,6mm,3320.24,Mesh,Clothing
+P1693,Cricket Bat,Cricket Bat with high quality features for everyday use,Puma,Blue,S,380.67,Leather,Sports
+P1694,Laptop,Laptop with high quality features for everyday use,SG,Grey,43inch,2323.42,Rubber,Electronics
+P1695,Blender,Blender with high quality features for everyday use,Puma,White,N/A,1591.58,Leather,Electronics
+P1696,Blender,Blender with high quality features for everyday use,Van Heusen,Brown,S,437.95,Plastic,Electronics
+P1697,Backpack,Backpack with high quality features for everyday use,Roadster,Brown,43inch,2407.23,Steel,Accessories
+P1698,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Brown,S,1508.98,Wood,Home Appliances
+P1699,Sweater,Sweater with high quality features for everyday use,Puma,Brown,N/A,753.35,Cotton,Clothing
+P1700,Watch,Watch with high quality features for everyday use,Roadster,Green,XL,2392.72,Leather,Accessories
+P1701,Sandals,Sandals with high quality features for everyday use,Sony,White,1.5L,2362.77,Cotton,Footwear
+P1702,Jeans,Jeans with high quality features for everyday use,SG,Grey,S,1385.24,Mesh,Clothing
+P1703,Laptop,Laptop with high quality features for everyday use,Sony,Grey,9,100.0,Plastic,Electronics
+P1704,Toaster,Toaster with high quality features for everyday use,Philips,Brown,Full,268.76,Rubber,Home Appliances
+P1705,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Green,L,1884.65,Cotton,Footwear
+P1706,Jacket,Jacket with high quality features for everyday use,Van Heusen,Brown,L,2029.73,Steel,Clothing
+P1707,Jacket,Jacket with high quality features for everyday use,Van Heusen,Yellow,L,3930.14,Mesh,Clothing
+P1708,Sandals,Sandals with high quality features for everyday use,Philips,White,Full,2351.86,Plastic,Footwear
+P1709,Iron,Iron with high quality features for everyday use,Philips,Black,S,261.31,Plastic,Home Appliances
+P1710,Cricket Bat,Cricket Bat with high quality features for everyday use,Van Heusen,Blue,S,1902.8,Leather,Sports
+P1711,Power Bank,Power Bank with high quality features for everyday use,Philips,Yellow,Full,1490.4,Cotton,Electronics
+P1712,Skipping Rope,Skipping Rope with high quality features for everyday use,Sony,Green,Full,2785.35,Steel,Sports
+P1713,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,White,M,2026.99,Rubber,Footwear
+P1714,Iron,Iron with high quality features for everyday use,Sony,Yellow,N/A,1216.45,Mesh,Home Appliances
+P1715,Running Shoes,Running Shoes with high quality features for everyday use,Samsung,Black,6mm,2355.06,Steel,Footwear
+P1716,Jeans,Jeans with high quality features for everyday use,Van Heusen,Yellow,XL,2402.16,Wood,Clothing
+P1717,Cricket Bat,Cricket Bat with high quality features for everyday use,boAt,Green,43inch,800.97,Silicon,Sports
+P1718,Running Shoes,Running Shoes with high quality features for everyday use,Puma,Green,Full,622.06,Silicon,Footwear
+P1719,Sandals,Sandals with high quality features for everyday use,Puma,Blue,1.5L,445.69,Cotton,Footwear
+P1720,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Van Heusen,Red,Full,799.35,Rubber,Clothing
+P1721,Backpack,Backpack with high quality features for everyday use,SG,White,43inch,1665.9,Plastic,Accessories
+P1722,LED TV,LED TV with high quality features for everyday use,Samsung,Blue,XL,3458.1,Silicon,Electronics
+P1723,Iron,Iron with high quality features for everyday use,Philips,Grey,S,915.23,Leather,Home Appliances
+P1724,Leather Wallet,Leather Wallet with high quality features for everyday use,boAt,Brown,Full,1018.52,Steel,Accessories
+P1725,Jeans,Jeans with high quality features for everyday use,Puma,Red,N/A,2192.34,Leather,Clothing
+P1726,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Samsung,Green,Full,2182.39,Steel,Home Appliances
+P1727,Laptop,Laptop with high quality features for everyday use,Van Heusen,Red,Full,1101.43,Silicon,Electronics
+P1728,Formal Shoes,Formal Shoes with high quality features for everyday use,Wildcraft,Blue,1.5L,497.49,Cotton,Footwear
+P1729,Football,Football with high quality features for everyday use,Philips,Green,L,256.78,Plastic,Sports
+P1730,Jeans,Jeans with high quality features for everyday use,Nike,Grey,6mm,2974.69,Cotton,Clothing
+P1731,Running Shoes,Running Shoes with high quality features for everyday use,Samsung,White,Full,1564.72,Leather,Footwear
+P1732,Toaster,Toaster with high quality features for everyday use,Philips,Green,L,2889.57,Mesh,Home Appliances
+P1733,Toaster,Toaster with high quality features for everyday use,Van Heusen,Brown,M,2571.38,Cotton,Home Appliances
+P1734,Toaster,Toaster with high quality features for everyday use,SG,Yellow,9,1057.62,Silicon,Home Appliances
+P1735,Formal Shoes,Formal Shoes with high quality features for everyday use,SG,Grey,9,1276.54,Cotton,Footwear
+P1736,Formal Shirt,Formal Shirt with high quality features for everyday use,Van Heusen,Brown,N/A,1563.27,Mesh,Clothing
+P1737,Blender,Blender with high quality features for everyday use,Roadster,Brown,1.5L,1540.25,Wood,Electronics
+P1738,Smart Watch,Smart Watch with high quality features for everyday use,Nike,Black,XL,705.72,Cotton,Electronics
+P1739,Skipping Rope,Skipping Rope with high quality features for everyday use,SG,Green,9,100.0,Silicon,Sports
+P1740,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,White,L,1302.67,Wood,Footwear
+P1741,Iron,Iron with high quality features for everyday use,Roadster,White,XL,100.0,Wood,Home Appliances
+P1742,Sandals,Sandals with high quality features for everyday use,Puma,Blue,43inch,100.0,Cotton,Footwear
+P1743,Formal Shirt,Formal Shirt with high quality features for everyday use,boAt,Blue,L,1385.23,Plastic,Clothing
+P1744,Football,Football with high quality features for everyday use,Sony,Red,6mm,528.24,Wood,Sports
+P1745,Formal Shirt,Formal Shirt with high quality features for everyday use,Puma,Black,6mm,100.0,Leather,Clothing
+P1746,Smart Watch,Smart Watch with high quality features for everyday use,Wildcraft,Grey,L,1291.42,Leather,Electronics
+P1747,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Grey,43inch,3293.82,Mesh,Footwear
+P1748,Watch,Watch with high quality features for everyday use,Van Heusen,Green,S,1471.43,Silicon,Accessories
+P1749,Yoga Mat,Yoga Mat with high quality features for everyday use,Roadster,Brown,S,457.61,Mesh,Sports
+P1750,Blender,Blender with high quality features for everyday use,Sony,Green,6mm,3192.68,Rubber,Electronics
+P1751,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Blue,9,1538.0,Wood,Clothing
+P1752,Sandals,Sandals with high quality features for everyday use,Philips,White,43inch,1169.04,Leather,Footwear
+P1753,Sandals,Sandals with high quality features for everyday use,Sony,Grey,43inch,1300.43,Mesh,Footwear
+P1754,Leather Wallet,Leather Wallet with high quality features for everyday use,Roadster,Blue,6mm,1869.68,Steel,Accessories
+P1755,Cricket Bat,Cricket Bat with high quality features for everyday use,Roadster,Green,6mm,1927.61,Silicon,Sports
+P1756,Running Shoes,Running Shoes with high quality features for everyday use,Sony,Green,M,100.0,Silicon,Footwear
+P1757,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,boAt,Red,9,411.89,Silicon,Clothing
+P1758,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,SG,Red,L,1741.54,Mesh,Home Appliances
+P1759,Smart Watch,Smart Watch with high quality features for everyday use,Philips,White,M,100.0,Plastic,Electronics
+P1760,Iron,Iron with high quality features for everyday use,Roadster,White,43inch,405.84,Cotton,Home Appliances
+P1761,Toaster,Toaster with high quality features for everyday use,Sony,Grey,M,894.64,Leather,Home Appliances
+P1762,Yoga Mat,Yoga Mat with high quality features for everyday use,Wildcraft,Black,43inch,100.0,Leather,Sports
+P1763,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Roadster,Yellow,9,100.0,Rubber,Clothing
+P1764,Backpack,Backpack with high quality features for everyday use,Roadster,Green,N/A,2246.64,Cotton,Accessories
+P1765,Blender,Blender with high quality features for everyday use,SG,Red,XL,782.83,Rubber,Electronics
+P1766,Toaster,Toaster with high quality features for everyday use,Van Heusen,Grey,Full,2552.14,Plastic,Home Appliances
+P1767,Sandals,Sandals with high quality features for everyday use,boAt,Green,6mm,887.89,Silicon,Footwear
+P1768,Leather Wallet,Leather Wallet with high quality features for everyday use,Nike,Green,1.5L,2589.03,Steel,Accessories
+P1769,Sandals,Sandals with high quality features for everyday use,Samsung,White,XL,2572.13,Leather,Footwear
+P1770,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,Yellow,Full,2439.53,Rubber,Sports
+P1771,Jacket,Jacket with high quality features for everyday use,Sony,Black,9,3031.7,Steel,Clothing
+P1772,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Green,XL,1041.88,Leather,Footwear
+P1773,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Wildcraft,Red,1.5L,1299.57,Steel,Clothing
+P1774,Watch,Watch with high quality features for everyday use,Nike,Yellow,9,590.92,Mesh,Accessories
+P1775,Football,Football with high quality features for everyday use,Roadster,Yellow,1.5L,100.0,Steel,Sports
+P1776,Formal Shirt,Formal Shirt with high quality features for everyday use,Sony,Yellow,M,909.02,Cotton,Clothing
+P1777,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Blue,N/A,599.14,Silicon,Footwear
+P1778,Sweater,Sweater with high quality features for everyday use,Puma,White,Full,100.0,Leather,Clothing
+P1779,LED TV,LED TV with high quality features for everyday use,boAt,White,Full,100.0,Leather,Electronics
+P1780,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Samsung,Green,Full,3140.58,Wood,Home Appliances
+P1781,Jacket,Jacket with high quality features for everyday use,Philips,Black,L,2856.17,Silicon,Clothing
+P1782,Football,Football with high quality features for everyday use,SG,Black,6mm,1673.81,Silicon,Sports
+P1783,Sweater,Sweater with high quality features for everyday use,Philips,Blue,S,163.64,Rubber,Clothing
+P1784,Power Bank,Power Bank with high quality features for everyday use,boAt,Yellow,6mm,2379.57,Mesh,Electronics
+P1785,Sneakers,Sneakers with high quality features for everyday use,Samsung,Yellow,6mm,645.51,Steel,Footwear
+P1786,Jeans,Jeans with high quality features for everyday use,Puma,Red,1.5L,1929.99,Silicon,Clothing
+P1787,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Yellow,Full,555.81,Rubber,Home Appliances
+P1788,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Grey,M,1452.05,Wood,Accessories
+P1789,Backpack,Backpack with high quality features for everyday use,Van Heusen,Grey,XL,2612.55,Wood,Accessories
+P1790,Sweater,Sweater with high quality features for everyday use,Roadster,Blue,43inch,908.83,Wood,Clothing
+P1791,Watch,Watch with high quality features for everyday use,Van Heusen,Black,9,652.09,Steel,Accessories
+P1792,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Black,XL,3076.8,Leather,Footwear
+P1793,Running Shoes,Running Shoes with high quality features for everyday use,Nike,Green,1.5L,1443.57,Rubber,Footwear
+P1794,Toaster,Toaster with high quality features for everyday use,Van Heusen,Red,N/A,2559.7,Plastic,Home Appliances
+P1795,Formal Shoes,Formal Shoes with high quality features for everyday use,Sony,Green,Full,1552.44,Silicon,Footwear
+P1796,Power Bank,Power Bank with high quality features for everyday use,Wildcraft,Blue,S,2625.86,Rubber,Electronics
+P1797,Iron,Iron with high quality features for everyday use,Wildcraft,Grey,Full,763.99,Mesh,Home Appliances
+P1798,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Black,6mm,1647.93,Silicon,Footwear
+P1799,Sandals,Sandals with high quality features for everyday use,Sony,White,L,1980.88,Silicon,Footwear
+P1800,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Philips,Blue,43inch,1530.01,Mesh,Clothing
+P1801,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Sony,White,L,1404.56,Wood,Home Appliances
+P1802,Toaster,Toaster with high quality features for everyday use,Van Heusen,White,S,244.94,Cotton,Home Appliances
+P1803,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Sony,Blue,43inch,2801.77,Leather,Home Appliances
+P1804,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,Blue,6mm,976.29,Cotton,Clothing
+P1805,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Roadster,Grey,9,1897.26,Wood,Home Appliances
+P1806,LED TV,LED TV with high quality features for everyday use,Samsung,Grey,9,937.59,Rubber,Electronics
+P1807,Power Bank,Power Bank with high quality features for everyday use,Roadster,Green,XL,1817.0,Plastic,Electronics
+P1808,Cricket Bat,Cricket Bat with high quality features for everyday use,Roadster,Yellow,XL,2151.43,Mesh,Sports
+P1809,Formal Shirt,Formal Shirt with high quality features for everyday use,Nike,Red,9,538.42,Cotton,Clothing
+P1810,Running Shoes,Running Shoes with high quality features for everyday use,Van Heusen,Brown,N/A,658.26,Steel,Footwear
+P1811,Toaster,Toaster with high quality features for everyday use,SG,Yellow,N/A,2031.03,Rubber,Home Appliances
+P1812,Toaster,Toaster with high quality features for everyday use,Samsung,Black,6mm,416.43,Mesh,Home Appliances
+P1813,Formal Shoes,Formal Shoes with high quality features for everyday use,Wildcraft,Black,9,2441.38,Plastic,Footwear
+P1814,Sandals,Sandals with high quality features for everyday use,Van Heusen,Red,1.5L,704.09,Rubber,Footwear
+P1815,Sandals,Sandals with high quality features for everyday use,Wildcraft,Blue,9,2174.49,Cotton,Footwear
+P1816,Formal Shoes,Formal Shoes with high quality features for everyday use,Sony,Yellow,43inch,112.44,Cotton,Footwear
+P1817,LED TV,LED TV with high quality features for everyday use,boAt,Black,L,2033.82,Cotton,Electronics
+P1818,Sweater,Sweater with high quality features for everyday use,Wildcraft,Black,1.5L,1425.26,Wood,Clothing
+P1819,Jeans,Jeans with high quality features for everyday use,Philips,Grey,S,2598.49,Rubber,Clothing
+P1820,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Red,6mm,1841.48,Cotton,Footwear
+P1821,Toaster,Toaster with high quality features for everyday use,Roadster,Brown,N/A,722.24,Steel,Home Appliances
+P1822,Formal Shirt,Formal Shirt with high quality features for everyday use,SG,Red,6mm,100.0,Mesh,Clothing
+P1823,Toaster,Toaster with high quality features for everyday use,Samsung,White,43inch,1146.1,Silicon,Home Appliances
+P1824,Sweater,Sweater with high quality features for everyday use,Sony,Yellow,9,3049.79,Rubber,Clothing
+P1825,Sandals,Sandals with high quality features for everyday use,Samsung,Green,S,2549.59,Steel,Footwear
+P1826,Sandals,Sandals with high quality features for everyday use,Roadster,Green,XL,2244.91,Plastic,Footwear
+P1827,Sneakers,Sneakers with high quality features for everyday use,Sony,Grey,M,161.85,Silicon,Footwear
+P1828,Sandals,Sandals with high quality features for everyday use,Nike,Yellow,XL,1057.46,Rubber,Footwear
+P1829,Jeans,Jeans with high quality features for everyday use,Philips,Black,6mm,472.73,Cotton,Clothing
+P1830,Badminton Racket,Badminton Racket with high quality features for everyday use,Roadster,Red,9,1708.46,Rubber,Sports
+P1831,Football,Football with high quality features for everyday use,Philips,Black,S,1878.04,Rubber,Sports
+P1832,LED TV,LED TV with high quality features for everyday use,Roadster,White,XL,1338.2,Silicon,Electronics
+P1833,Sneakers,Sneakers with high quality features for everyday use,Samsung,Yellow,43inch,1699.44,Wood,Footwear
+P1834,Running Shoes,Running Shoes with high quality features for everyday use,Puma,Red,43inch,1386.9,Mesh,Footwear
+P1835,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Grey,M,1012.98,Plastic,Home Appliances
+P1836,Sweater,Sweater with high quality features for everyday use,Van Heusen,Grey,9,100.0,Rubber,Clothing
+P1837,Belt,Belt with high quality features for everyday use,Puma,Grey,6mm,801.07,Wood,Accessories
+P1838,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Roadster,Red,N/A,100.0,Wood,Clothing
+P1839,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Wildcraft,Red,43inch,904.52,Silicon,Home Appliances
+P1840,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Wildcraft,Black,43inch,100.0,Leather,Clothing
+P1841,Sweater,Sweater with high quality features for everyday use,Nike,Grey,9,1248.11,Leather,Clothing
+P1842,Watch,Watch with high quality features for everyday use,Puma,Yellow,9,1392.15,Plastic,Accessories
+P1843,Sneakers,Sneakers with high quality features for everyday use,Samsung,Red,6mm,1755.86,Cotton,Footwear
+P1844,Jeans,Jeans with high quality features for everyday use,Roadster,Green,1.5L,2550.16,Wood,Clothing
+P1845,Badminton Racket,Badminton Racket with high quality features for everyday use,Wildcraft,Red,9,1436.39,Steel,Sports
+P1846,Smart Watch,Smart Watch with high quality features for everyday use,Sony,Yellow,N/A,2095.44,Cotton,Electronics
+P1847,Formal Shoes,Formal Shoes with high quality features for everyday use,Roadster,Yellow,XL,2301.96,Steel,Footwear
+P1848,Football,Football with high quality features for everyday use,Roadster,Yellow,S,1339.44,Mesh,Sports
+P1849,Formal Shoes,Formal Shoes with high quality features for everyday use,Philips,Green,XL,1155.58,Mesh,Footwear
+P1850,Smart Watch,Smart Watch with high quality features for everyday use,Philips,White,6mm,1175.15,Mesh,Electronics
+P1851,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Wildcraft,Blue,1.5L,995.24,Wood,Electronics
+P1852,Sandals,Sandals with high quality features for everyday use,Nike,White,9,1298.86,Plastic,Footwear
+P1853,Watch,Watch with high quality features for everyday use,Samsung,Green,L,2683.38,Rubber,Accessories
+P1854,Formal Shoes,Formal Shoes with high quality features for everyday use,Nike,Black,L,1397.16,Rubber,Footwear
+P1855,Blender,Blender with high quality features for everyday use,Van Heusen,Grey,S,2623.28,Mesh,Electronics
+P1856,Blender,Blender with high quality features for everyday use,Philips,Green,N/A,1775.57,Cotton,Electronics
+P1857,Toaster,Toaster with high quality features for everyday use,Nike,Brown,L,602.52,Plastic,Home Appliances
+P1858,Belt,Belt with high quality features for everyday use,Puma,Black,M,1408.85,Wood,Accessories
+P1859,Sweater,Sweater with high quality features for everyday use,Puma,White,L,556.22,Rubber,Clothing
+P1860,Formal Shirt,Formal Shirt with high quality features for everyday use,Philips,Brown,43inch,1327.95,Mesh,Clothing
+P1861,Watch,Watch with high quality features for everyday use,SG,White,N/A,100.0,Wood,Accessories
+P1862,Running Shoes,Running Shoes with high quality features for everyday use,Sony,White,S,3361.17,Wood,Footwear
+P1863,Watch,Watch with high quality features for everyday use,Van Heusen,Yellow,43inch,1030.87,Mesh,Accessories
+P1864,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Nike,Grey,9,1765.03,Mesh,Home Appliances
+P1865,Football,Football with high quality features for everyday use,Puma,Red,9,1465.1,Cotton,Sports
+P1866,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Grey,9,1253.18,Rubber,Accessories
+P1867,Skipping Rope,Skipping Rope with high quality features for everyday use,boAt,Red,N/A,741.41,Silicon,Sports
+P1868,Power Bank,Power Bank with high quality features for everyday use,Sony,Green,XL,2353.02,Mesh,Electronics
+P1869,Watch,Watch with high quality features for everyday use,SG,Brown,Full,2176.33,Leather,Accessories
+P1870,Blender,Blender with high quality features for everyday use,Van Heusen,Black,1.5L,100.0,Plastic,Electronics
+P1871,Sweater,Sweater with high quality features for everyday use,Sony,Brown,43inch,1884.35,Leather,Clothing
+P1872,Watch,Watch with high quality features for everyday use,Van Heusen,Red,Full,2632.19,Rubber,Accessories
+P1873,Watch,Watch with high quality features for everyday use,boAt,Blue,9,2694.14,Silicon,Accessories
+P1874,Football,Football with high quality features for everyday use,Nike,Green,N/A,2098.46,Rubber,Sports
+P1875,Leather Wallet,Leather Wallet with high quality features for everyday use,Philips,Green,6mm,2460.29,Wood,Accessories
+P1876,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Brown,43inch,849.14,Plastic,Home Appliances
+P1877,Running Shoes,Running Shoes with high quality features for everyday use,Wildcraft,Green,L,1756.48,Silicon,Footwear
+P1878,Smart Watch,Smart Watch with high quality features for everyday use,boAt,Red,1.5L,620.6,Silicon,Electronics
+P1879,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Puma,White,6mm,2508.71,Plastic,Clothing
+P1880,Sweater,Sweater with high quality features for everyday use,Wildcraft,White,9,695.61,Plastic,Clothing
+P1881,Sneakers,Sneakers with high quality features for everyday use,boAt,Green,N/A,1748.98,Silicon,Footwear
+P1882,Belt,Belt with high quality features for everyday use,Nike,Red,M,1736.65,Cotton,Accessories
+P1883,Formal Shoes,Formal Shoes with high quality features for everyday use,Samsung,Brown,XL,872.37,Plastic,Footwear
+P1884,Cricket Bat,Cricket Bat with high quality features for everyday use,Philips,Red,6mm,397.66,Mesh,Sports
+P1885,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Puma,Green,M,1708.38,Silicon,Home Appliances
+P1886,Formal Shoes,Formal Shoes with high quality features for everyday use,Puma,Blue,XL,2003.29,Steel,Footwear
+P1887,Sandals,Sandals with high quality features for everyday use,boAt,Black,1.5L,1965.99,Mesh,Footwear
+P1888,Badminton Racket,Badminton Racket with high quality features for everyday use,Sony,Black,Full,489.16,Plastic,Sports
+P1889,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,Red,1.5L,2547.31,Silicon,Sports
+P1890,Power Bank,Power Bank with high quality features for everyday use,Samsung,Yellow,N/A,2687.34,Rubber,Electronics
+P1891,Jeans,Jeans with high quality features for everyday use,Roadster,Blue,43inch,2888.7,Cotton,Clothing
+P1892,Running Shoes,Running Shoes with high quality features for everyday use,Nike,Grey,XL,2269.75,Plastic,Footwear
+P1893,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Samsung,Blue,XL,1840.79,Plastic,Home Appliances
+P1894,Toaster,Toaster with high quality features for everyday use,Roadster,Brown,1.5L,1833.55,Steel,Home Appliances
+P1895,Toaster,Toaster with high quality features for everyday use,boAt,Red,9,604.84,Steel,Home Appliances
+P1896,Sneakers,Sneakers with high quality features for everyday use,Nike,Green,N/A,2149.37,Silicon,Footwear
+P1897,Toaster,Toaster with high quality features for everyday use,Van Heusen,Yellow,6mm,879.56,Silicon,Home Appliances
+P1898,Cricket Bat,Cricket Bat with high quality features for everyday use,Van Heusen,Yellow,L,451.65,Leather,Sports
+P1899,Power Bank,Power Bank with high quality features for everyday use,SG,Brown,6mm,734.99,Leather,Electronics
+P1900,Sweater,Sweater with high quality features for everyday use,Roadster,Yellow,S,1187.14,Silicon,Clothing
+P1901,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Roadster,Grey,1.5L,994.76,Leather,Electronics
+P1902,Watch,Watch with high quality features for everyday use,Roadster,Yellow,XL,1748.0,Leather,Accessories
+P1903,Formal Shoes,Formal Shoes with high quality features for everyday use,Van Heusen,Grey,1.5L,1432.98,Wood,Footwear
+P1904,Watch,Watch with high quality features for everyday use,Philips,Yellow,N/A,2043.5,Steel,Accessories
+P1905,Skipping Rope,Skipping Rope with high quality features for everyday use,Samsung,Red,XL,378.79,Silicon,Sports
+P1906,Jeans,Jeans with high quality features for everyday use,Sony,Yellow,6mm,1601.62,Rubber,Clothing
+P1907,Jeans,Jeans with high quality features for everyday use,Wildcraft,Grey,6mm,2703.63,Plastic,Clothing
+P1908,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Wildcraft,Green,M,3515.67,Mesh,Clothing
+P1909,Jacket,Jacket with high quality features for everyday use,Nike,Blue,N/A,3097.7,Leather,Clothing
+P1910,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,Yellow,S,747.08,Silicon,Footwear
+P1911,Formal Shirt,Formal Shirt with high quality features for everyday use,Puma,Black,Full,1259.51,Mesh,Clothing
+P1912,Watch,Watch with high quality features for everyday use,Samsung,Yellow,1.5L,1523.75,Silicon,Accessories
+P1913,Jacket,Jacket with high quality features for everyday use,Sony,Yellow,43inch,1476.7,Cotton,Clothing
+P1914,Yoga Mat,Yoga Mat with high quality features for everyday use,boAt,Yellow,6mm,2152.54,Cotton,Sports
+P1915,Smart Watch,Smart Watch with high quality features for everyday use,Nike,Red,43inch,1394.17,Silicon,Electronics
+P1916,Power Bank,Power Bank with high quality features for everyday use,Puma,Grey,1.5L,531.04,Cotton,Electronics
+P1917,Jacket,Jacket with high quality features for everyday use,Van Heusen,Red,N/A,2199.38,Plastic,Clothing
+P1918,Cricket Bat,Cricket Bat with high quality features for everyday use,Puma,Yellow,43inch,2778.2,Rubber,Sports
+P1919,Sneakers,Sneakers with high quality features for everyday use,boAt,White,S,336.41,Rubber,Footwear
+P1920,Toaster,Toaster with high quality features for everyday use,Roadster,White,M,1774.66,Rubber,Home Appliances
+P1921,Belt,Belt with high quality features for everyday use,Puma,Black,XL,1100.38,Silicon,Accessories
+P1922,Badminton Racket,Badminton Racket with high quality features for everyday use,SG,Red,L,3080.08,Mesh,Sports
+P1923,Formal Shoes,Formal Shoes with high quality features for everyday use,Sony,Green,1.5L,2232.57,Plastic,Footwear
+P1924,Iron,Iron with high quality features for everyday use,Puma,Brown,M,116.91,Plastic,Home Appliances
+P1925,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Philips,Grey,1.5L,421.97,Steel,Home Appliances
+P1926,Yoga Mat,Yoga Mat with high quality features for everyday use,Wildcraft,Yellow,L,1034.56,Steel,Sports
+P1927,Formal Shirt,Formal Shirt with high quality features for everyday use,boAt,Red,N/A,705.99,Silicon,Clothing
+P1928,Sandals,Sandals with high quality features for everyday use,Wildcraft,Black,Full,100.0,Cotton,Footwear
+P1929,Sweater,Sweater with high quality features for everyday use,Sony,Blue,S,1912.29,Mesh,Clothing
+P1930,Watch,Watch with high quality features for everyday use,Nike,Grey,Full,1624.16,Rubber,Accessories
+P1931,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,SG,Grey,XL,1100.62,Plastic,Home Appliances
+P1932,Sneakers,Sneakers with high quality features for everyday use,Roadster,White,XL,1526.25,Rubber,Footwear
+P1933,Yoga Mat,Yoga Mat with high quality features for everyday use,Samsung,Brown,N/A,1648.69,Wood,Sports
+P1934,Power Bank,Power Bank with high quality features for everyday use,Van Heusen,Blue,Full,1736.35,Rubber,Electronics
+P1935,Cricket Bat,Cricket Bat with high quality features for everyday use,Roadster,Grey,S,1137.56,Rubber,Sports
+P1936,Skipping Rope,Skipping Rope with high quality features for everyday use,Puma,White,N/A,3161.27,Silicon,Sports
+P1937,Iron,Iron with high quality features for everyday use,Philips,Red,9,2392.87,Wood,Home Appliances
+P1938,Sweater,Sweater with high quality features for everyday use,Nike,Yellow,9,704.74,Rubber,Clothing
+P1939,Skipping Rope,Skipping Rope with high quality features for everyday use,Wildcraft,Red,9,764.7,Mesh,Sports
+P1940,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,Green,L,539.53,Silicon,Footwear
+P1941,Formal Shirt,Formal Shirt with high quality features for everyday use,Sony,Blue,N/A,2522.21,Steel,Clothing
+P1942,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Puma,White,9,1025.27,Rubber,Electronics
+P1943,Belt,Belt with high quality features for everyday use,boAt,White,M,2086.66,Steel,Accessories
+P1944,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Roadster,Red,XL,728.85,Silicon,Home Appliances
+P1945,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Nike,White,43inch,1744.5,Mesh,Home Appliances
+P1946,Skipping Rope,Skipping Rope with high quality features for everyday use,Wildcraft,White,6mm,412.72,Silicon,Sports
+P1947,Sweater,Sweater with high quality features for everyday use,Sony,Red,L,1746.1,Mesh,Clothing
+P1948,Badminton Racket,Badminton Racket with high quality features for everyday use,Roadster,Yellow,N/A,2072.84,Steel,Sports
+P1949,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Philips,Red,S,100.0,Rubber,Home Appliances
+P1950,Cricket Bat,Cricket Bat with high quality features for everyday use,Philips,Blue,6mm,100.0,Mesh,Sports
+P1951,Power Bank,Power Bank with high quality features for everyday use,Samsung,Blue,Full,1501.44,Rubber,Electronics
+P1952,Smart Watch,Smart Watch with high quality features for everyday use,SG,White,S,3206.95,Wood,Electronics
+P1953,Running Shoes,Running Shoes with high quality features for everyday use,Roadster,Black,1.5L,2078.95,Mesh,Footwear
+P1954,Vacuum Cleaner,Vacuum Cleaner with high quality features for everyday use,Sony,Grey,1.5L,2039.17,Wood,Home Appliances
+P1955,Cricket Bat,Cricket Bat with high quality features for everyday use,boAt,Yellow,1.5L,2305.24,Cotton,Sports
+P1956,Jacket,Jacket with high quality features for everyday use,Sony,Red,XL,1930.72,Rubber,Clothing
+P1957,Sneakers,Sneakers with high quality features for everyday use,Philips,Yellow,9,1180.79,Silicon,Footwear
+P1958,Skipping Rope,Skipping Rope with high quality features for everyday use,Nike,Grey,XL,843.62,Silicon,Sports
+P1959,Watch,Watch with high quality features for everyday use,Wildcraft,Green,9,1742.84,Rubber,Accessories
+P1960,Belt,Belt with high quality features for everyday use,Van Heusen,Grey,Full,2160.55,Cotton,Accessories
+P1961,Sweater,Sweater with high quality features for everyday use,Philips,Green,L,1046.41,Steel,Clothing
+P1962,Sweater,Sweater with high quality features for everyday use,Sony,Black,M,1596.67,Silicon,Clothing
+P1963,Iron,Iron with high quality features for everyday use,SG,Green,M,1591.92,Silicon,Home Appliances
+P1964,Watch,Watch with high quality features for everyday use,SG,Black,M,2225.18,Steel,Accessories
+P1965,Belt,Belt with high quality features for everyday use,boAt,Green,Full,2773.97,Plastic,Accessories
+P1966,Toaster,Toaster with high quality features for everyday use,Philips,Red,M,1427.3,Leather,Home Appliances
+P1967,Formal Shirt,Formal Shirt with high quality features for everyday use,Samsung,Green,XL,2145.95,Cotton,Clothing
+P1968,Smart Watch,Smart Watch with high quality features for everyday use,boAt,Grey,Full,2779.73,Wood,Electronics
+P1969,Wireless Headphones,Wireless Headphones with high quality features for everyday use,Roadster,Green,M,4192.87,Cotton,Electronics
+P1970,Toaster,Toaster with high quality features for everyday use,Sony,White,S,1664.13,Leather,Home Appliances
+P1971,Formal Shirt,Formal Shirt with high quality features for everyday use,boAt,Yellow,XL,3334.49,Silicon,Clothing
+P1972,Iron,Iron with high quality features for everyday use,Roadster,Brown,L,2434.31,Mesh,Home Appliances
+P1973,Power Bank,Power Bank with high quality features for everyday use,Van Heusen,Grey,43inch,100.0,Steel,Electronics
+P1974,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Nike,Brown,S,1461.97,Cotton,Home Appliances
+P1975,Iron,Iron with high quality features for everyday use,Nike,White,43inch,2332.39,Wood,Home Appliances
+P1976,Yoga Mat,Yoga Mat with high quality features for everyday use,Roadster,Blue,1.5L,695.08,Steel,Sports
+P1977,Formal Shoes,Formal Shoes with high quality features for everyday use,Van Heusen,Green,9,100.0,Rubber,Footwear
+P1978,Blender,Blender with high quality features for everyday use,Nike,Brown,43inch,964.34,Cotton,Electronics
+P1979,Cotton T-Shirt,Cotton T-Shirt with high quality features for everyday use,Sony,Black,M,3497.78,Steel,Clothing
+P1980,Laptop,Laptop with high quality features for everyday use,Van Heusen,Yellow,Full,1718.36,Steel,Electronics
+P1981,Mixer Grinder,Mixer Grinder with high quality features for everyday use,Nike,Red,S,1179.36,Steel,Home Appliances
+P1982,Watch,Watch with high quality features for everyday use,SG,Red,N/A,1613.87,Leather,Accessories
+P1983,Leather Wallet,Leather Wallet with high quality features for everyday use,Roadster,Blue,9,1567.88,Plastic,Accessories
+P1984,Backpack,Backpack with high quality features for everyday use,Van Heusen,Black,43inch,2034.83,Mesh,Accessories
+P1985,Jeans,Jeans with high quality features for everyday use,Wildcraft,Red,43inch,1272.97,Rubber,Clothing
+P1986,Watch,Watch with high quality features for everyday use,Roadster,Grey,XL,1248.89,Wood,Accessories
+P1987,Running Shoes,Running Shoes with high quality features for everyday use,Philips,White,Full,1081.62,Plastic,Footwear
+P1988,Backpack,Backpack with high quality features for everyday use,Philips,Black,N/A,1533.19,Mesh,Accessories
+P1989,Running Shoes,Running Shoes with high quality features for everyday use,Wildcraft,Black,L,1103.18,Leather,Footwear
+P1990,Running Shoes,Running Shoes with high quality features for everyday use,Philips,White,XL,1655.13,Wood,Footwear
+P1991,Blender,Blender with high quality features for everyday use,Roadster,Grey,43inch,1705.82,Wood,Electronics
+P1992,Power Bank,Power Bank with high quality features for everyday use,Philips,Blue,6mm,3068.5,Silicon,Electronics
+P1993,Formal Shirt,Formal Shirt with high quality features for everyday use,Philips,Blue,Full,100.0,Mesh,Clothing
+P1994,Jacket,Jacket with high quality features for everyday use,boAt,Black,9,2040.14,Cotton,Clothing
+P1995,Backpack,Backpack with high quality features for everyday use,Van Heusen,Brown,43inch,100.0,Rubber,Accessories
+P1996,Sandals,Sandals with high quality features for everyday use,Wildcraft,Blue,9,2192.63,Wood,Footwear
+P1997,Formal Shoes,Formal Shoes with high quality features for everyday use,boAt,Black,S,2638.95,Wood,Footwear
+P1998,Laptop,Laptop with high quality features for everyday use,Philips,Green,Full,100.0,Wood,Electronics
+P1999,Leather Wallet,Leather Wallet with high quality features for everyday use,Van Heusen,Blue,6mm,4094.67,Mesh,Accessories
